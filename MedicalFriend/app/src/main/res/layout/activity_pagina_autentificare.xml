@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".PaginaAutentificare"
+    android:background="@drawable/autentificare">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        >
+
+        <AutoCompleteTextView
+            android:id="@+id/emailAutentificare"
+            android:layout_width="290dp"
+            android:layout_height="50dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_marginStart="61dp"
+            android:layout_marginTop="289dp"
+            android:layout_marginEnd="59dp"
+            android:layout_marginRight="59dp"
+            android:background="@drawable/rounded_rect"
+            android:drawableStart="@drawable/icon_mail"
+            android:drawableLeft="@drawable/icon_mail"
+            android:drawablePadding="10dp"
+            android:hint="@string/emailReg"
+            android:inputType="textEmailAddress"
+            android:paddingStart="10dp"
+            android:paddingEnd="10dp"
+            android:textColor="@color/white"
+            android:textColorHint="#bcbcbc"
+            android:textSize="15sp" />
+
+        <AutoCompleteTextView
+            android:id="@+id/parolaAutentificare"
+            android:layout_width="290dp"
+            android:layout_height="50dp"
+            android:layout_below="@+id/emailAutentificare"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginStart="60dp"
+            android:layout_marginTop="40dp"
+            android:layout_marginEnd="59dp"
+            android:layout_marginRight="59dp"
+            android:layout_marginBottom="303dp"
+            android:background="@drawable/rounded_rect"
+            android:drawableStart="@drawable/icon_password"
+            android:drawableLeft="@drawable/icon_password"
+            android:drawablePadding="10dp"
+            android:hint="@string/passwordReg"
+            android:inputType="textPassword"
+            android:paddingStart="10dp"
+            android:paddingEnd="10dp"
+            android:textColor="@color/white"
+            android:textColorHint="#bcbcbc"
+            android:textSize="15sp" />
+
+        <Button
+            android:id="@+id/ButonAutentificare"
+            android:layout_width="176dp"
+            android:layout_height="57dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginEnd="101dp"
+            android:layout_marginBottom="175dp"
+            android:background="@drawable/buton_pagini_afectiuni"
+            android:text="@string/text_pagina_cont_buton_login"
+            android:textColor="#000000"
+            android:textSize="15sp"
+            android:textStyle="italic"
+            android:visibility="visible"
+            app:iconTint="#ffb7c8"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.497"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.678"
+            app:strokeColor="#EDE7F6"
+            tools:ignore="MissingConstraints,SpeakableTextPresentCheck" />
+
+        <TextView
+            android:id="@+id/textId"
+            android:layout_width="289dp"
+            android:layout_height="43dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginLeft="23dp"
+            android:layout_marginTop="580dp"
+            android:layout_marginEnd="38dp"
+            android:layout_marginBottom="54dp"
+            android:text="@string/text_pagina_cont_signup"
+            android:textAlignment="center"
+            android:textColor="#6D4A31"
+            android:textSize="23dp"
+            android:textStyle="italic">
+
+        </TextView>
+
+    </RelativeLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

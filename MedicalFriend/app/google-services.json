@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "364971624880",
+    "firebase_url": "https://medicalfriend-66d6a-default-rtdb.firebaseio.com",
+    "project_id": "medicalfriend-66d6a",
+    "storage_bucket": "medicalfriend-66d6a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:364971624880:android:5b709561c5b4180f512e75",
+        "android_client_info": {
+          "package_name": "com.example.medicalfriend"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "364971624880-k98n4d0f96kulh63u2vmvs550ri3m2uq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArb_-6C07M0VfDXECyEeNP07vgOPdGbZs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "364971624880-k98n4d0f96kulh63u2vmvs550ri3m2uq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="spinnerarray" >
+        <item> </item>
+        <item>Abdomen</item>
+        <item>Breast</item>
+        <item>Cerebral</item>
+        <item>Chest</item>
+        <item>Ear</item>
+        <item>Eye</item>
+        <item>Face</item>
+        <item>General physical</item>
+        <item>Genital</item>
+        <item>Hair and nails</item>
+        <item>Limbs</item>
+        <item>Neck</item>
+        <item>Nose</item>
+        <item>Oral</item>
+        <item>Pelvic</item>
+        <item>Periods</item>
+        <item>Skin</item>
+        <item>Urinary</item>
+    </string-array>
+
+    <string-array name="spinnerarrayDE">
+        <item> </item>
+        <item>Abdomen</item>
+        <item>Brust</item>
+        <item>Gehirn</item>
+        <item>Truhe</item>
+        <item>Ohr</item>
+        <item>Auge</item>
+        <item>Gesicht</item>
+        <item>Allgemeine körperliche</item>
+        <item>Genital</item>
+        <item>Haare und Nägel</item>
+        <item>Gliedmaßen</item>
+        <item>Nacken</item>
+        <item>Nase</item>
+        <item>Oral</item>
+        <item>Becken</item>
+        <item>Perioden</item>
+        <item>Haut</item>
+        <item>Urin</item>
+    </string-array>
+
+    <string-array name="spinnerarrayFr">
+        <item> </item>
+        <item>Abdomen</item>
+        <item>Sein</item>
+        <item>Cérébrale</item>
+        <item>Coffre</item>
+        <item>Oreille</item>
+        <item>Œil</item>
+        <item>Visage</item>
+        <item>Physique général</item>
+        <item>Génital(e)</item>
+        <item>Cheveux et ongles</item>
+        <item>Membres</item>
+        <item>Cou</item>
+        <item>Nez</item>
+        <item>Oral(e)</item>
+        <item>Pelvien(ne)</item>
+        <item>Cycle menstruel</item>
+        <item>La peau</item>
+        <item>Urinaire</item>
+    </string-array>
+
+    <string-array name="spinnerarrayRo">
+        <item> </item>
+        <item>Abdomen</item>
+        <item>Sâni</item>
+        <item>Cerebral</item>
+        <item>Piept</item>
+        <item>Ureche</item>
+        <item>Ochi</item>
+        <item>Față</item>
+        <item>Fizic general</item>
+        <item>Genital</item>
+        <item>Păr și unghii</item>
+        <item>Membre</item>
+        <item>Gât</item>
+        <item>Nas</item>
+        <item>Oral</item>
+        <item>Pelvin</item>
+        <item>Ciclu menstrual</item>
+        <item>Piele</item>
+        <item>Urinar</item>
+    </string-array>
+
+    <string-array name="categoriiInformatiiAfectiuni">
+        <item>The GP overview</item>
+        <item>Differential diagnosis</item>
+        <item>Possible investigations</item>
+        <item>Top tips</item>
+        <item>Red flags</item>
+    </string-array>
+
+    <string-array name="categoriiInformatiiAfectiuniDe">
+        <item>Die GP-Übersicht</item>
+        <item>Differenzialdiagnose</item>
+        <item>Mögliche Ermittlungen</item>
+        <item>Beste Tipps</item>
+        <item>Rote Flaggen</item>
+    </string-array>
+
+    <string-array name="categoriiInformatiiAfectiuniFr">
+        <item>La vue d"'ensemble du médecin généraliste</item>
+        <item>Diagnostic différentiel</item>
+        <item>Enquêtes possibles</item>
+        <item>Meilleures astuces</item>
+        <item>Drapeaux rouges</item>
+    </string-array>
+
+    <string-array name="categoriiInformatiiAfectiuniRo">
+        <item>Prezentare generală a GP</item>
+        <item>Diagnostic diferentiat</item>
+        <item>Investigații posibile</item>
+        <item>Sfaturile cele mai bune</item>
+        <item>Steaguri roșii</item>
+    </string-array>
+
+    <string-array name="spinnerJudete">
+
+        <item>Arad</item>
+        <item>București</item>
+        <item>Cluj</item>
+        <item>Iași</item>
+        <item>Timișoara</item>
+    </string-array>
+
+</resources>

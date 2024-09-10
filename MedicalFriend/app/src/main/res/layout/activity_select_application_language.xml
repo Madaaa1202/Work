@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SelectApplicationLanguage"
+    android:background="@drawable/fundallimba">
+
+    <LinearLayout
+        android:id="@+id/LimbaRomana"
+        android:layout_width="178dp"
+        android:layout_height="143dp"
+        android:onClick="onClick"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.107"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.056"
+        tools:ignore="OnClick" />
+
+    <LinearLayout
+        android:id="@+id/LimbaGermana"
+        android:layout_width="178dp"
+        android:layout_height="143dp"
+        android:onClick="onClick"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.935"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.299"
+        tools:ignore="OnClick" />
+
+    <LinearLayout
+        android:id="@+id/LimbaFranceza"
+        android:layout_width="178dp"
+        android:layout_height="143dp"
+        android:onClick="onClick"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.107"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.542"
+        tools:ignore="OnClick" />
+
+    <LinearLayout
+        android:id="@+id/LimbaEngleza"
+        android:layout_width="178dp"
+        android:layout_height="143dp"
+        android:onClick="onClick"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.935"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.801"
+        tools:ignore="InvalidId,OnClick" />
+
+    <Button
+        android:id="@+id/ButonSetareLimba"
+        android:layout_width="176dp"
+        android:layout_height="57dp"
+        android:background="@drawable/buton_pagina_cont"
+        android:text="Ok"
+        android:textColor="#000000"
+        android:textSize="25sp"
+        android:textStyle="italic"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.395"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.936"
+        tools:ignore="MissingConstraints" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="FunctionalitateaScanare.Precautii3"
+    android:background="@drawable/prospect">
+
+    <TextView
+        android:layout_width="200dp"
+        android:layout_height="40dp"
+        android:layout_marginStart="91dp"
+        android:layout_marginTop="128dp"
+        android:layout_marginEnd="120dp"
+        android:text="Precauții"
+        android:textAlignment="center"
+        android:textColor="#000000"
+        android:textSize="25dp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:ignore="MissingConstraints" />
+
+    <RelativeLayout
+        android:layout_width="300dp"
+        android:layout_height="300dp"
+        android:layout_marginStart="55dp"
+        android:layout_marginEnd="56dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:ignore="MissingConstraints">
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:id="@+id/TextPrecautii3"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                tools:ignore="MissingConstraints"
+                android:textColor="@color/black"
+                android:textSize="12dp"/>
+        </ScrollView>
+    </RelativeLayout>
+
+    <Button
+        android:id="@+id/Iesire3"
+        android:layout_width="250dp"
+        android:layout_height="50dp"
+        android:layout_marginStart="18dp"
+        android:layout_marginEnd="144dp"
+        android:layout_marginBottom="90dp"
+        android:background="@drawable/buton_pagina_cont"
+        android:text="Iesire"
+        android:textSize="18dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:ignore="MissingConstraints" />
+</androidx.constraintlayout.widget.ConstraintLayout>

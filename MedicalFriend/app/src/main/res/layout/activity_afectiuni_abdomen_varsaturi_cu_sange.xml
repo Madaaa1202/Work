@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="GuestInterface.AfectiuniAbdomen.AfectiuniAbdomenVarsaturiCuSange"
+    android:background="@drawable/fundalafectiuniabdomen">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/TextViewDenumireAfectiune7"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:layout_alignParentBottom="true"
+            android:layout_marginBottom="636dp"
+            android:text="@string/afectiuneabdomen7"
+            android:textAlignment="center"
+            android:textColor="#660000"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <Spinner
+            android:id="@+id/spinnerCategoriiPentruFiecareBoala"
+            android:layout_width="364dp"
+            android:layout_height="40dp"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentEnd="true"
+            android:layout_marginTop="107dp"
+            android:layout_marginEnd="27dp"
+            android:background="@drawable/bg_spinner"
+            android:textColor="#000000"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.545"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.053" />
+
+        <ScrollView
+            android:layout_width="wrap_content"
+            android:layout_height="353dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginStart="69dp"
+            android:layout_marginTop="280dp"
+            android:layout_marginEnd="72dp"
+            android:layout_marginBottom="98dp">
+
+            <TextView
+                android:id="@+id/TextViewInformatiiAfectiune7"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+
+                android:textColor="#000000" />
+
+        </ScrollView>
+
+
+    </RelativeLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

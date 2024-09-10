@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <uses-sdk
+        android:maxSdkVersion="30"
+        android:minSdkVersion="28"
+        android:targetSdkVersion="30"
+        tools:ignore="GradleOverrides,OldTargetApi" />
+
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission
+        android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS"
+        tools:ignore="ProtectedPermissions" />
+
+    <uses-feature android:name="android.hardware.camera" />
+    <uses-feature android:name="android.hardware.camera.autofocus" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.MedicalFriend"
+        android:usesCleartextTraffic="true">
+        <activity
+            android:name="FunctionalitateaScanare.ProspectInAltaLimbaNuRo"
+            android:exported="false" />
+        <activity
+            android:name=".PaginaPrincipalaScanare2"
+            android:exported="false" />
+        <activity
+            android:name=".Splash"
+            android:exported="false" />
+        <activity
+            android:name="ChatBot.PaginaPrincipalaChatBot"
+            android:exported="false" />
+        <activity
+            android:name="PaginaPrincipalaDupaAutentificare.Alarma2"
+            android:exported="false" />
+        <activity
+            android:name="PaginaListaMedici.Scuze"
+            android:exported="false" />
+        <activity
+            android:name="PaginaPrincipalaDupaAutentificare.ListaMediciContacte"
+            android:exported="false"
+            tools:ignore="MissingClass" />
+        <activity
+            android:name="FunctionalitateaScanare.Precautii7"
+            android:exported="false"
+            tools:ignore="MissingClass" />
+        <activity
+            android:name="FunctionalitateaScanare.Precautii6"
+            android:exported="false" />
+        <activity
+            android:name="FunctionalitateaScanare.Precautii5"
+            android:exported="false" />
+        <activity
+            android:name="FunctionalitateaScanare.Precautii4"
+            android:exported="false" />
+        <activity
+            android:name="FunctionalitateaScanare.Precautii3"
+            android:exported="false" />
+        <activity
+            android:name="FunctionalitateaScanare.Precautii2"
+            android:exported="false" />
+        <activity
+            android:name="FunctionalitateaScanare.Precautii"
+            android:exported="false" />
+        <activity
+            android:name="FunctionalitateaScanare.Indicatii7"
+            android:exported="false" />
+        <activity
+            android:name="FunctionalitateaScanare.Indicatii6"
+            android:exported="false" />
+        <activity
+            android:name="FunctionalitateaScanare.Indicatii5"
+            android:exported="false" />
+        <activity
+            android:name="FunctionalitateaScanare.Indicatii4"
+            android:exported="false" />
+        <activity
+            android:name="FunctionalitateaScanare.Indicatii3"
+            android:exported="false" />
+        <activity
+            android:name="FunctionalitateaScanare.Indicatii2"
+            android:exported="false" />
+        <activity
+            android:name="FunctionalitateaScanare.Indicatii"
+            android:exported="false" />
+        <activity
+            android:name="FunctionalitateaScanare.Contraindicatii7"
+            android:exported="false" />
+        <activity
+            android:name="FunctionalitateaScanare.Contraindicatii6"
+            android:exported="false" />
+        <activity
+            android:name="FunctionalitateaScanare.Contraindicatii5"
+            android:exported="false" />
+        <activity
+            android:name="FunctionalitateaScanare.Contraindicatii4"
+            android:exported="false" />
+        <activity
+            android:name="FunctionalitateaScanare.Contraindicatii3"
+            android:exported="false" />
+        <activity
+            android:name="FunctionalitateaScanare.Contraindicatii2"
+            android:exported="false" />
+        <activity
+            android:name="FunctionalitateaScanare.ContraindicatiiProspect"
+            android:exported="false" />
+        <activity
+            android:name="FunctionalitateaScanare.CompozitieProspect7"
+            android:exported="false" />
+        <activity
+            android:name="FunctionalitateaScanare.CompozitieProspect6"
+            android:exported="false" />
+        <activity
+            android:name="FunctionalitateaScanare.CompozitieProspect5"
+            android:exported="false" />
+        <activity
+            android:name="FunctionalitateaScanare.CompozitieProspect4"
+            android:exported="false" />
+        <activity
+            android:name="FunctionalitateaScanare.CompozitieProspect3"
+            android:exported="false" />
+        <activity
+            android:name="FunctionalitateaScanare.CompozitieProspect2"
+            android:exported="false" />
+        <activity
+            android:name="FunctionalitateaScanare.CompozitieProspect"
+            android:exported="false" />
+        <activity
+            android:name="FunctionalitateaScanare.NeCeremScuze"
+            android:exported="false" />
+        <activity
+            android:name=".AfisareProspect"
+            android:exported="false" />
+        <activity
+            android:name="PaginaPrincipalaDupaAutentificare.Alarma"
+            android:exported="false" />
+
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="YOUR_API_KEY" />
+
+        <activity
+            android:name=".paginaPrincipalaDupaAutentificare"
+            android:exported="false" />
+        <activity
+            android:name=".PaginaInregistrare"
+            android:exported="false" />
+        <activity
+            android:name=".PaginaAutentificare"
+            android:exported="false" />
+
+        <meta-data
+            android:name="com.google.android.gms.vision.DEPENDENCIES"
+            android:value="barcode" />
+
+        <activity
+            android:name=".PaginaPrincipalaScanare"
+            android:exported="false" />
+        <activity
+            android:name="GuestInterface.AfectiuniCerebrale.AfectiuniCerebraleDurereDeCap"
+            android:exported="false" />
+        <activity
+            android:name="GuestInterface.AfectiuniCerebrale.AfectiuniCerebraleAmeteala"
+            android:exported="false" />
+        <activity
+            android:name="GuestInterface.AfectiuniCerebrale.AfectiuniCerebraleConfuzie"
+            android:exported="false" />
+        <activity
+            android:name="GuestInterface.AfectiuniSani.AfectiuniSaniDurereDeSan"
+            android:exported="false" />
+        <activity
+            android:name="GuestInterface.AfectiuniSani.AfectiuniSaniLumpiLaFemei"
+            android:exported="false" />
+        <activity
+            android:name="GuestInterface.AfectiuniSani.AfectiuniSaniMarireaSanilorLaBarbati"
+            android:exported="false" />
+        <activity
+            android:name="GuestInterface.AfectiuniAbdomen.AfectiuniAbdomenVarsaturiCuSange"
+            android:exported="false" />
+        <activity
+            android:name="GuestInterface.AfectiuniAbdomen.AfectiuniAbdomenVarsaturi"
+            android:exported="false" />
+        <activity
+            android:name="GuestInterface.AfectiuniAbdomen.AfectiuniAbdomenDiaree"
+            android:exported="false" />
+        <activity
+            android:name="GuestInterface.AfectiuniAbdomen.AfectiuniAbdomenConstipation"
+            android:exported="false" />
+        <activity
+            android:name="GuestInterface.AfectiuniAbdomen.AfectiuniAbdomenPainInPregnancy"
+            android:exported="false" />
+        <activity
+            android:name="GuestInterface.AfectiuniAbdomen.AfectiuniAbdomenPain"
+            android:exported="false" />
+        <activity
+            android:name="GuestInterface.AfectiuniAbdomen.AfectiuniAbdomenSwelling"
+            android:exported="false" />
+        <activity
+            android:name="GuestInterface.PaginaPrincipalaAfectiuniOchi"
+            android:exported="false" />
+        <activity
+            android:name="GuestInterface.PaginaPrincipalaAfectiuniUreche"
+            android:exported="false" />
+        <activity
+            android:name="GuestInterface.PaginaPrincipalaAfectiuniPiept"
+            android:exported="false" />
+        <activity
+            android:name="GuestInterface.PaginaPrincipalaAfectiuniCerebral"
+            android:exported="false" />
+        <activity
+            android:name="GuestInterface.PaginaPrincipalaAfectiuniSani"
+            android:exported="false" />
+        <activity
+            android:name="GuestInterface.PaginaPrincipalaAfectiuniAbdomen"
+            android:exported="false" />
+        <activity
+            android:name="GuestInterface.InterfataPrincipalaAfectiuni"
+            android:exported="false" />
+        <activity
+            android:name="GuestInterface.GuestInterfataPrincipala"
+            android:exported="false" />
+        <activity
+            android:name=".SelectApplicationLanguage"
+            android:exported="false" />
+        <activity
+            android:name=".PaginaSelectareTipContUtilizator"
+            android:exported="false" />
+        <activity
+            android:name=".CaptureAct"
+            android:screenOrientation="fullSensor"
+            android:stateNotNeeded="true"
+            android:windowSoftInputMode="stateAlwaysHidden"></activity>
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <service
+            android:name="PaginaPrincipalaDupaAutentificare.PushNotificationService"
+            android:exported="false">
+            <intent-filter>
+                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+            </intent-filter>
+        </service>
+
+        <receiver android:name="PaginaPrincipalaDupaAutentificare.AlarmReciver" />
+    </application>
+
+</manifest>

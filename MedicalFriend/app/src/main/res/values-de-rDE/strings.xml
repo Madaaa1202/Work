@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Medizinischer Freund</string>
+    <string name="text_buton_scanare" translatable="false">Barcode scannen</string>
+    <string name="add_pills_bar" translatable="false">Codeleiste hinzufügen</string>
+    <string name="delete_pills_bar" translatable="false">Barcode löschen</string>
+    <string name="view_pills_recipe" translatable="false">Prospekt anzeigen</string>
+    <string name="welcome" translatable="false">Willkommen</string>
+    <string name="text_buton_afectiuni" translatable="false" >Krankheit</string>
+    <string name="text_buton_cont" translatable="false">Konto</string>
+    <string name="text_pagina_cont" translatable="false">Hi!</string>
+    <string name="text_pagina_cont_login" translatable="false">Hast du einen Account?</string>
+    <string name="text_pagina_cont_signup" translatable="false">Erstellen Sie hier ein Konto!</string>
+    <string name="text_pagina_cont_buton_login" translatable="false">Einloggen</string>
+    <string name="text_pagina_cont_buton_signup" translatable="false">Anmeldung</string>
+    <string name="usernameReg" translatable="false">Nutzername</string>
+    <string name="emailReg" translatable="false">E-Mail-Addresse</string>
+    <string name="passwordReg" translatable="false">Passwort</string>
+    <string name="signin_redirect" translatable="false">Schon ein Mitglied? Anmeldung!</string>
+    <string name="buton_language">Sprache</string>
+    <string name="butonGuestPrincipal">Liste der Beschwerden</string>
+    <string name="TextSelectSpinnerGuest">Auswählen</string>
+    <string name="textverificare">Überprüfung...</string>
+    <string name="textautentificarereusita">Anmeldung erfolgreich!</string>
+    <string name="textdategresite">Falsche E-Mail-Adresse oder Passwort!</string>
+    <string name="textcampemailgol">Die E-Mail ist nicht abgeschlossen!</string>
+    <string name="textcampparolagol">Das Passwort ist nicht vollständig!</string>
+    <string name="textcontinregistrat">Das Konto wurde erfolgreich erstellt!</string>
+    <string name="textcontexistent" >Für diese E-Mail-Adresse existiert bereits ein Account!</string>
+    <string name="textgolusername" translatable="false">Das Feld Benutzername ist leer!</string>
+
+
+    <!--Pagina principala dupa autentificare-->
+    <string name="textLocalizare">GPS</string>
+    <string name="alarma">Erinnerung</string>
+    <string name="no_cardetails">Klicken Sie auf die Schaltfläche unten, um mit der Erstellung Ihrer Erinnerung zu beginnen!</string>
+    <string name="title_activity_edit_reminder">Erinnerung bearbeiten</string>
+    <string name="title_activity_licenses">Lizenzen</string>
+
+    <string name="add_reminder">Erinnerung</string>
+    <string name="details">Einzelheiten</string>
+    <string name="date">Datum</string>
+    <string name="time">Zeit</string>
+    <string name="repeat">Wiederholen</string>
+    <string name="repeat_off">Aus</string>
+    <string name="repeat_no">Wiederholungsintervall </string>
+    <string name="repeat_type">Art der Wiederholungen</string>
+
+    <string name="action_discard_reminder">Erinnerung verwerfen</string>
+    <string name="action_save_reminder">Erinnerung speichern</string>
+
+    <string name="editor_activity_title_new_reminder">Erinnerungsdetails hinzufügen</string>
+    <string name="editor_activity_title_edit_reminder">Erinnerung bearbeiten</string>
+    <string name="unsaved_changes_dialog_msg">Änderungen verwerfen und Bearbeitung beenden?</string>
+    <string name="discard">Verwerfen</string>
+
+    <string name="keep_editing">Bearbeiten Sie weiter</string>
+    <string name="delete_dialog_msg">Diese Erinnerung löschen?</string>
+
+    <string name="delete">Löschen</string>
+
+    <string name="cancel">Absagen</string>
+    <string name="editor_delete_reminder_successful">Erinnerung gelöscht</string>
+
+    <string name="editor_delete_reminder_failed">Fehler beim Löschen der Erinnerung</string>
+
+    <string name="editor_insert_reminder_successful">Erinnerung gespeichert</string>
+
+    <string name="editor_insert_reminder_failed">Fehler beim Speichern der Erinnerung</string>
+
+    <string name="editor_update_reminder_successful">Erinnerung aktualisiert</string>
+
+    <string name="editor_update_reminder_failed">Fehler beim Aktualisieren der Erinnerung</string>
+
+    <string name="reminder_title">AlarmErinnerung</string>
+
+    <string name="title_activity_add_reminder">Erinnerung hinzufügen</string>
+
+    <string name="scuze">Diese Funktion ist derzeit nur auf Rumänisch verfügbar. Danke für Ihr Verständnis!</string>
+    <!--                                                           -->
+
+    <!--Afectiuni din zona abdominala-->
+    <string name="afectiuneabdomen1">Bauchschmerzen</string>
+    <string name="afectiuneabdomen2" translatable="false">Bauchschmerzen bei erwachsenen</string>
+    <string name="afectiuneabdomen3" translatable="false">Schmerzen in der schwangerschaft</string>
+    <string name="afectiuneabdomen4" translatable="false">Verstopfung</string>
+    <string name="afectiuneabdomen5" translatable="false">Durchfall</string>
+    <string name="afectiuneabdomen6" translatable="false">Erbrechen</string>
+    <string name="afectiuneabdomen7" translatable="false">Blut erbrechen</string>
+    <!--                             -->
+
+    <!--Afectiuni sani-->
+    <string name="afectiunisani1" translatable="false">Brustvergrößerung bei Männern</string>
+    <string name="afectiunisani2" translatable="false">Brustklumpen bei Frauen</string>
+    <string name="afectiunisani3" translatable="false">Brustschmerzen</string>
+    <!--                             -->
+
+    <!--Afectiuni cerebrale-->
+    <string name="afectiunicerebrale1" translatable="false">Akute Verwirrung</string>
+    <string name="afectiunicerebrale2" translatable="false">Schwindel</string>
+    <string name="afectiunicerebrale3" translatable="false">Kopfschmerzen</string>
+
+    <!--                             -->
+
+    <string name="afectiunipiept" translatable="false">Brustschmerzen</string>
+    <string name="afectiuniureche" translatable="false">Ohrenschmerzen</string>
+    <string name="afectiuniochi" translatable="false">Doppeltsehen</string>
+
+    <string name="GuestScanare" translatable="false">Barcode-Optionen</string>
+    <string name="lista">LListe der Ärzte</string>
+
+    <string name="timeSet" >Stellen Sie hier die Zeit in Sekunden ein</string>
+
+    <string name="chat">Diagnose-Chatbot</string>
+    <string name="text">Gib deine Nachricht ein</string>
+
+    <string name="botResp">Bot</string>
+
+    <string name="please">Bitte gib deine Nachricht ein</string>
+
+    <string name="no">Keine Antwort</string>
+
+    <string name="iesire">Ausloggen</string>
+
+    <string name="afisare">Offen</string>
+
+    <string name="rezultat_scanare">Scan-Ergebnis</string>
+
+    <string name="scanare">Scannen</string>
+
+    <string name="no_result">Ergebnislos</string>
+
+    <string name="prospect">Prospekt</string>
+
+    <string name="prospect_unu">Komposition:\nDer Wirkstoff ist Cetirizindihydrochlorid Eine Kapsel enthält 10 mg Cetirizindihydrochlorid. Die sonstigen Bestandteile sind: Macrogol, 43 % m/m Kaliumhydroxid, Povidon, gereinigtes Wasser, Gelatine, Sorbitol (E420), Glycerol, Lecithin, mittelkettige Triglyceride, Beschriftungstinte (Propylenglykol, schwarzes Eisenoxid (E172), Polyvinylacetat Phthalat, Macrogol und Ammoniumhydroxid).\nKontraindikationen:\nSchwangerschaft und Stillzeit Wenn Sie schwanger sind oder stillen, oder wenn Sie vermuten, schwanger zu sein oder beabsichtigen, schwanger zu werden, fragen Sie vor der Einnahme dieses Arzneimittels Ihren Arzt oder Apotheker um Rat. Wie jedes Arzneimittel sollte Reactin bei schwangeren Frauen vermieden werden. Die versehentliche Anwendung des Arzneimittels durch eine schwangere Frau sollte keine schädlichen Auswirkungen auf den Fötus haben. Jedoch. Infolgedessen sollte das Medikament abgesetzt werden. Sie sollten Reactin nicht während der Stillzeit einnehmen, da Cetirizin in die Muttermilch übergeht. Verkehrstüchtigkeit und Fähigkeit zum Bedienen von Maschinen Klinische Studien haben keine Hinweise auf eine Beeinträchtigung der Aufmerksamkeit, Wachsamkeit oder Verkehrstüchtigkeit nach Verabreichung von Reactin in der empfohlenen Dosis ergeben, jedoch ist beim Führen eines Fahrzeugs oder beim Bedienen von Maschinen Vorsicht geboten. Wenn Sie Schläfrigkeit verspüren, sollten Sie das Autofahren, die Ausübung potenziell gefährlicher Tätigkeiten oder das Bedienen von Maschinen unterlassen.\nRichtungen:\nDer Wirkstoff in Reactin ist Cetirizindihydrochlorid. Reactin ist ein Antiallergikum. Bei Erwachsenen, Jugendlichen und Kindern ab 12 Jahren ist Reactin 10 mg Weichkapseln indiziert zur: - Linderung von Nasen- und Augensymptomen bei saisonaler und ganzjähriger allergischer Rhinitis. - zur Linderung der chronischen Urtikaria (chronisch idiopathische Urtikaria).\nVorsichtsmaßnahmen:\nBitte sprechen Sie mit Ihrem Arzt oder Apotheker, bevor Sie Reactin einnehmen. Wenn Sie ein Patient mit Leber- und Nierenproblemen sind, suchen Sie bitte ärztlichen Rat; Falls erforderlich, werden Sie eine niedrigere Dosis einnehmen. Die neue Dosis wird von Ihrem Arzt festgelegt. Wenn Sie Schwierigkeiten beim Wasserlassen haben, sollten Sie den Rat Ihres Arztes einholen. Wenn Sie an Epilepsie leiden oder ein Risiko für Krampfanfälle haben, sollten Sie ärztlichen Rat einholen.</string>
+
+    <string name="prospect_doi">Komposition:\nDer Wirkstoff ist Bisacodil. Eine magensaftresistente Tablette enthält 5 mg Bisacodil. - Die sonstigen Bestandteile sind: Lactosekern-Monohydrat, wasserfreies kolloidales Siliciumdioxid, Kartoffelstärke, mikrokristalline Cellulose, Magnesiumstearat, Talkum, langkettige Partialglyceride, Celluloseacetophthalat-Überzugsschicht, flüssige Glucose, Stärkedextrin, Montanglykolwachs, Rizinusöl, Saccharose , wasserfreies kolloidales Siliciumdioxid, Talkum, Titandioxid (E 171)\nKontraindikationen:\n wenn Sie überempfindlich (allergisch) gegen Bisacodil oder einen der in Abschnitt 6. genannten sonstigen Bestandteile von Stadalax sind;  wenn Sie an Ileus (vorübergehende Unterbrechung des peristaltischen Stuhlgangs) oder Darmverschluss leiden;  wenn Ihr Darm verstopft ist (Darmverschluss);  wenn Sie an akuten Baucherkrankungen wie Blinddarmentzündung leiden;  wenn Sie eine akute Darmentzündung (Dünn- oder Dickdarm) haben;  wenn Ihr Körper viel Flüssigkeit verloren hat (Dehydratation);  wenn Sie bestimmte Probleme wie starke Bauchschmerzen, Übelkeit, Erbrechen oder Fieber haben. Dies können Anzeichen einer ernsthaften Erkrankung sein. Wenn Sie solche Symptome bemerken, sollten Sie sofort ärztlichen Rat einholen.  bei Kindern unter 2 Jahren.\nRichtungen:\nBesondere Vorsicht bei der Anwendung von Stadalax ist erforderlich Bei Verstopfung sollten Abführmittel nur kurzzeitig (in der Regel nicht länger als 5 Tage) angewendet werden. Bei chronischer Verstopfung sollten Sie vor der Einnahme dieses Arzneimittels mit Ihrem Arzt sprechen. Wenn Sie ein Durstgefühl oder eine Verringerung der Urinmenge bemerken, was Anzeichen einer Dehydrierung aufgrund von Flüssigkeitsverlust sein und für ältere Menschen oder Patienten mit Nierenproblemen gefährlich sein können, sollten Sie die Einnahme von Stadalax abbrechen und Ihren Arzt aufsuchen. Übermäßiger oder längerer Gebrauch von Abführmitteln kann zu Flüssigkeits-, Kalium- oder anderen Elektrolytverlusten führen, was zu Herzproblemen oder Muskelschwäche führen kann. Die Patienten berichteten von Blut im Stuhl, das normalerweise mild war und von selbst aufhörte. Bei mit Stadalax behandelten Patienten wurde über Schwindel und/oder Synkopen berichtet. Diese Ereignisse können mit Verstopfung und nicht unbedingt mit der Verabreichung von Stadalax zusammenhängen. Abführmittel sollten Kindern unter 10 Jahren nicht ohne ärztlichen Rat gegeben werden.\nVorsichtsmaßnahmen:\nStadalax sollte nicht mit Milch eingenommen werden. Bitte informieren Sie Ihren Arzt oder Apotheker, wenn Sie andere Arzneimittel einnehmen bzw. vor kurzem eingenommen haben, einschließlich nicht verschreibungspflichtiger Arzneimittel und pflanzlicher Arzneimittel. Magensäure neutralisierende Arzneimittel (Antazida) Magensäure neutralisierende Arzneimittel (Antazida) sollten nicht zusammen mit Stadalax eingenommen werden, damit der Wirkstoff in Stadalax nicht zu schnell freigesetzt wird. Wenn Sie ein Magenmittel einnehmen müssen, nehmen Sie es mehr als eine halbe Stunde nach der Einnahme von Stadalax ein. Diuretika (Arzneimittel, die dem Körper Wasser entziehen), Kortikosteroidhormone Der Wirkstoff Bisacodil kann den durch andere Arzneimittel (z. B. Diuretika, Kortikosteroidhormone) verursachten Kaliumverlust verstärken. Herzstimulierende Arzneimittel Die Empfindlichkeit gegenüber bestimmten herzstimulierenden Arzneimitteln (Herzglykoside) kann aufgrund des Kaliumverlusts erhöht sein.</string>
+
+    <string name="prospect_trei">Komposition:\nEine Lutschtablette enthält: 0,5 mg Thyrotricin, 1,0 mg Lidocainhydrochlorid, 1,0 mg Chlorhexidindigluconat und Hilfsstoffe: Sorbitol, Magnesiumstearat (pflanzlich), Pfefferminzöl.\nKontraindikationen:\nDas Arzneimittel darf nicht angewendet werden bei: • bekannter Überempfindlichkeit gegen einen der in Trachisan® - Lutschtabletten enthaltenen Bestandteile • nicht hämorrhagischer Abschuppung der Mundschleimhaut (erosive und schuppende Veränderungen) größerer (frischer) Läsionen (Wunden) der Mundhöhle und Rachen; • Kinder unter 4 Jahren Bei Fruktoseintoleranz sollte die Behandlung erst nach Rücksprache mit Ihrem Arzt durchgeführt werden.\nRichtungen:\nEntzündung und Infektion der Mund- und Rachenhöhle (Stomatitis, Gingivitis und Tonsillitis). Infektionen der oberen Atemwege, Halsschmerzen, Dysphagie.\nVorsichtsmaßnahmen:\nSportler sollten darauf hingewiesen werden, dass Trachisan® - Lutschtabletten als Wirkstoff ein Lokalanästhetikum (Lidocainhydrochlorid) enthalten, das bei Anti-Doping-Tests zu falsch positiven Reaktionen führen kann.</string>
+
+    <string name="prospect_patru">Komposition:\nZucker, Maisstärke, Vitamin C, Fructose, Steba rebaudian Extrakt, ätherisches Zitronenöl (Citri aetheroleum), ätherisches Pfefferminzöl (Menthae aetheroleum), ätherisches Eukalyptusöl (Eucalyptus aetheroleum), Weidenrindenextrakt cortex) standardisiert in min. 15 % Salicin 0,5 %, Gesamtextrakt aus Stoßblumen (Sambuci flos), Gesamtextrakt aus Sumpfklee (Menyanthes trifoliata), Gesamtextrakt aus Basilikum (Basilici herba), Gesamtextrakt aus Ysop (Hyssopi herba) 0,5 %.\nKontraindikationen:\nNicht empfohlen für Kinder unter 3 Jahren, Menschen mit Diabetes und Überempfindlichkeit gegen einen der Inhaltsstoffe des Produkts.\nRichtungen:\nBei den empfohlenen Dosierungen wurden keine Unverträglichkeiten mit Arzneimitteln berichtet. Es wurden keine Nebenwirkungen berichtet.\nVorsichtsmaßnahmen:\nKinder 3-6 Jahre: 1-2 Beutel pro Tag, verteilt über einen Tag. Kinder 7-14 Jahre: 2-3 Beutel pro Tag. Kinder über 14 Jahre und Erwachsene: 3-4 Beutel täglich. Die Kurdauer beträgt 3-7 Tage oder nach ärztlicher Empfehlung.</string>
+
+    <string name="prospect_cinci">Komposition:\nSüßungsmittel (Sorbit), Ascorbinsäure, Lactose-Monohydrat, Citronensäure, Natriumcitrat, Süßungsmittel (Mannit, Saccharin-Natrium, Aspartam), Talkum, Magnesiumstearat. Eine Tablette enthält 180 mg Vitamin C (225 % RDA / VNR *) * VNR = Referenznährwert gemäß EU-Verordnung 1169/2011 Indikationen\nKontraindikationen:\nÜbertreiben Sie es nicht mit der Anzahl der eingenommenen Pillen.\nRichtungen:\n- optimale Funktion des Immunsystems - Verringerung von Müdigkeit und Erschöpfung - Verbesserung der Eisenaufnahme - normale Funktion des Stoffwechsels - Schutz des Körpers vor oxidativem Stress\nVorsichtsmaßnahmen:\nAußerhalb der Reichweite und Sichtweite von Kindern aufbewahren. In der Originalverpackung unter 25 °C lagern. Überschreiten Sie nicht die empfohlene Dosis für den täglichen Verzehr. Das Produkt ist ein Nahrungsergänzungsmittel und soll eine abwechslungsreiche Ernährung und eine gesunde Lebensweise nicht ersetzen.</string>
+
+    <string name="prospect_sase">Komposition:\nDer Wirkstoff ist Acetylsalicylsäure. Jede Tablette enthält 500 mg Acetylsalicylsäure. Wasserfreies kolloidales Siliciumdioxid, wasserfreies Natriumcarbonat Film: Carnaubawachs, Hypromellose, Zinkstearat\nKontraindikationen:\nWie alle Arzneimittel kann auch dieses Arzneimittel Nebenwirkungen haben, die aber nicht bei jedem auftreten müssen. Häufigkeiten: unbekannte Häufigkeit – Häufigkeit auf Grundlage der verfügbaren Daten nicht abschätzbar.\nRichtungen:\nNehmen Sie ASPIRIN nicht mit Alkohol ein. - wenn Sie mit Methotrexat in Dosen von mehr als 20 mg pro Woche behandelt werden. In diesem Fall sollte die Anwendung von hochdosierter Acetylsalicylsäure (entzündungshemmende Dosen) oder die Anwendung von Acetylsalicylsäure zur Behandlung von Schmerzen oder Fieber vermieden werden. - wenn Sie mit oralen Antikoagulanzien behandelt werden und wenn Sie ein gastroduodenales Ulkus hatten. In diesem Fall sollte die Anwendung von hochdosierter Acetylsalicylsäure (entzündungshemmende Dosen) oder die Anwendung von Acetylsalicylsäure zur Behandlung von Schmerzen oder Fieber vermieden werden.\nVorsichtsmaßnahmen:\nBitte sprechen Sie mit Ihrem Arzt oder Apotheker, bevor Sie Acetylsalicylsäure zusammen mit einem der folgenden Arzneimittel einnehmen: - orale Antikoagulanzien, wenn Acetylsalicylsäure zur Behandlung von Schmerzen und Fieber angewendet wird, wenn Sie kein gastroduodenales Ulkus hatten - nichtsteroidale Antirheumatika, wenn Acetylsalicylsäure wird in hohen Dosen (entzündungshemmend) oder zur Behandlung von Schmerzen und Fieber eingesetzt - Heparin in kurativer Dosierung oder bei älteren Patienten (≥ 65 Jahre), wenn Acetylsalicylsäure in hohen Dosen (entzündungshemmend) eingesetzt wird, insbesondere zur Behandlung von rheumatischen Erkrankungen oder zur Behandlung von Schmerzen und Fieber - Thrombolytika - Clopidogrel - Ticlopidin - Urikosurika zur Behandlung von Gicht (z. B. Benzbromaron, Probenecid) - Glucocorticoide (außer Hydrocortison-Ersatztherapie), bei Anwendung einer Acetylsäure-Dosis (entzündungshemmendes) Pemetrexed, bei Patienten mit leichter bis mittelschwerer Nierenfunktionsstörung Anagrelid - Wassereinlagerungen (Diuretika) - Angiotensin-Converting-Enzym-Hemmer, Angiotensin-II-Rezeptor-Antagonisten - Methotrexat in Dosen von 20 mg oder weniger pro Woche - topische Magen-Darm-Arzneimittel, Antazida und Aktivkohle - Deferasirox - selektive Serotonin-Wiederaufnahmehemmer (z. B. Citalopram, Escitalopram, Fluoxetin, Fluvoxamin, Paroxetin, Sertralin).</string>
+
+    <string name="prospect_sapte">Komposition:\nDie Wirkstoffe sind: Paracetamol 500 mg, Chlorphenaminmaleat 3 mg, Pseudoephedrinhydrochlorid 30 mg. Die sonstigen Bestandteile sind: Quellstärke, Talkum, Povidon, Stearinsäure, Magnesiumstearat.\nKontraindikationen:\nParasinus darf nicht angewendet werden: - wenn Sie überempfindlich (allergisch) gegen Paracetamol, Pseudoephedrin, Chlorphenamin, Phenacetin, andere Antihistaminika, andere entzündungshemmende Arzneimittel (erhöhtes Risiko allergischer Reaktionen) oder einen der sonstigen Bestandteile von Parasinus sind; - Es sollte nicht bei Kindern unter 12 Jahren angewendet werden, es sei denn, dies wurde von einem Arzt verordnet.\nRichtungen:\nParasinus ist indiziert zur: Prophylaxe und Behandlung von Entzündungen der Nasenschleimhaut (Rhinitis) allergischer und vasomotorischer Natur und zur symptomatischen Behandlung der Erkältung und Grippe (zur Linderung von Niesen, Schnupfen, verstopfter Nase und Nebenhöhlen, Fieber, Kopfschmerzen). , tränende Augen und Schmerzen in den Nebenhöhlen) und zur symptomatischen Behandlung von leichten bis mäßigen Schmerzen mit unterschiedlichen Lokalisationen: Kopf-, Hals-, Gelenk- oder Rückenschmerzen, Zahnschmerzen, Schmerzen während des Menstruationszyklus, Neuralgien, Migräne.\nVorsichtsmaßnahmen:\nBitte sprechen Sie mit Ihrem Arzt oder Apotheker, bevor Sie Parasinus anwenden.</string>
+</resources>

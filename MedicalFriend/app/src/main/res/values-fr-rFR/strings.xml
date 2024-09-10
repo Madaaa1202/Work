@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ami médical</string>
+    <string name="text_buton_scanare" translatable="false">Scanner le code-barres</string>
+    <string name="add_pills_bar" translatable="false">Ajouter une barre de code</string>
+    <string name="delete_pills_bar" translatable="false">Supprimer le code-barres</string>
+    <string name="view_pills_recipe" translatable="false">Consulter le prospectus</string>
+    <string name="welcome" translatable="false">Bienvenue</string>
+    <string name="text_buton_afectiuni" translatable="false" >Maladie</string>
+    <string name="text_buton_cont" translatable="false">Compte</string>
+    <string name="text_pagina_cont" translatable="false">Salut!</string>
+    <string name="text_pagina_cont_login" translatable="false">Avez-vous un compte?</string>
+    <string name="text_pagina_cont_signup" translatable="false">Créez un compte ici !</string>
+    <string name="text_pagina_cont_buton_login" translatable="false">Connexion</string>
+    <string name="text_pagina_cont_buton_signup" translatable="false">S"'inscrire</string>
+    <string name="usernameReg" translatable="false">Nom d"'utilisateur</string>
+    <string name="emailReg" translatable="false">Adresse e-mail</string>
+    <string name="passwordReg" translatable="false">Mot de passe</string>
+    <string name="signin_redirect" translatable="false">Déjà membre? Connexion!</string>
+    <string name="buton_guest">Invité(e)</string>
+    <string name="buton_language">Langue</string>
+    <string name="butonGuestPrincipal">Liste des maux</string>
+    <string name="TextSelectSpinnerGuest">Sélectionner</string>
+    <string name="textverificare">Vérification...</string>
+    <string name="textautentificarereusita">Connexion réussie!</string>
+    <string name="textdategresite">Mauvaise adresse e-mail ou mot de passe!</string>
+    <string name="textcampemailgol">L"'e-mail n'est pas terminé!</string>
+    <string name="textcampparolagol">Le mot de passe n"'est pas complété !</string>
+    <string name="textcontinregistrat">Le compte a été créé avec succès!</string>
+    <string name="textcontexistent" >Pour cette adresse email existe déjà un compte !</string>
+    <string name="textgolusername" translatable="false">Le champ du nom d"'utilisateur est vide!</string>
+
+    <!--Pagina principala dupa autentificare-->
+    <string name="textLocalizare">GPS</string>
+    <string name="alarma">Rappel</string>
+    <string name="no_cardetails">Cliquez sur le bouton ci-dessous pour commencer à créer votre rappel!</string>
+    <string name="title_activity_edit_reminder">Modifier le rappel</string>
+    <string name="title_activity_licenses">Licenses</string>
+
+    <string name="add_reminder">Rappel</string>
+    <string name="details">Des détails</string>
+    <string name="date">Date</string>
+    <string name="time">Temps</string>
+    <string name="repeat">Répéter</string>
+    <string name="repeat_off">Désactivé</string>
+    <string name="repeat_no">Intervalle de répétition </string>
+    <string name="repeat_type">Type de répétitions</string>
+
+    <string name="action_discard_reminder">Supprimer le rappel</string>
+    <string name="action_save_reminder">Enregistrer le rappel</string>
+
+    <string name="editor_activity_title_new_reminder">Ajouter des détails de rappel</string>
+    <string name="editor_activity_title_edit_reminder">Modifier le rappel</string>
+    <string name="unsaved_changes_dialog_msg">Supprimer vos modifications et quitter la modification?</string>
+    <string name="discard">Jeter</string>
+
+    <string name="keep_editing">Continuez à éditer</string>
+    <string name="delete_dialog_msg">Supprimer ce rappel?</string>
+
+    <string name="delete">Supprimer</string>
+
+    <string name="cancel">Annuler</string>
+    <string name="editor_delete_reminder_successful">Rappel supprimé</string>
+
+    <string name="editor_delete_reminder_failed">Erreur lors de la suppression du rappel</string>
+
+    <string name="editor_insert_reminder_successful">Rappel enregistré</string>
+
+    <string name="editor_insert_reminder_failed">Erreur lors de l"'enregistrement du rappel</string>
+
+    <string name="editor_update_reminder_successful">Rappel mis à jour</string>
+
+    <string name="editor_update_reminder_failed">Erreur lors de la mise à jour du rappel</string>
+
+    <string name="reminder_title">Rappel d"'alarme</string>
+    <string name="title_activity_add_reminder">Ajouter un rappel</string>
+
+
+    <string name="scuze">Cette fonctionnalité n"'est disponible qu'en roumain pour le moment. Merci pour la compréhension!</string>
+    <!--                                                           -->
+
+    <!--Afectiuni din zona abdominala-->
+    <string name="afectiuneabdomen1">Gonflement abdominal</string>
+    <string name="afectiuneabdomen2" translatable="false">Douleurs abdominales chez l"'adulte</string>
+    <string name="afectiuneabdomen3" translatable="false">Douleur pendant la grossesse</string>
+    <string name="afectiuneabdomen4" translatable="false">Constipation</string>
+    <string name="afectiuneabdomen5" translatable="false">Diarrhée</string>
+    <string name="afectiuneabdomen6" translatable="false">Vomissement</string>
+    <string name="afectiuneabdomen7" translatable="false">Vomir du sang</string>
+    <!--                             -->
+
+    <!--Afectiuni sani-->
+    <string name="afectiunisani1" translatable="false">Élargissement du sein chez les hommes</string>
+    <string name="afectiunisani2" translatable="false">Bosses mammaires chez les femmes</string>
+    <string name="afectiunisani3" translatable="false">Douleurs mammaires</string>
+    <!--                             -->
+
+    <!--Afectiuni cerebrale-->
+    <string name="afectiunicerebrale1" translatable="false">Confusion aiguë</string>
+    <string name="afectiunicerebrale2" translatable="false">Vertiges</string>
+    <string name="afectiunicerebrale3" translatable="false">Mal de crâne</string>
+
+    <!--                             -->
+
+    <string name="afectiunipiept" translatable="false">Douleur thoracique</string>
+    <string name="afectiuniureche" translatable="false">Mal d"'oreille</string>
+    <string name="afectiuniochi" translatable="false">Vision double</string>
+
+    <string name="GuestScanare" translatable="false">Options de code-barres</string>
+
+    <string name="lista">Liste des médecins</string>
+
+    <string name="timeSet">Réglez le temps ici en secondes</string>
+
+    <string name="chat">Chatbot</string>
+    <string name="text">Entrez votre message</string>
+
+    <string name="botResp">Réponse du robot</string>
+
+    <string name="please">Veuillez entrer votre message</string>
+
+    <string name="no">Pas de réponse</string>
+
+    <string name="iesire">Se déconnecter</string>
+
+    <string name="afisare">Ouvrir</string>
+
+    <string name="rezultat_scanare">Résultat de scanner</string>
+
+    <string name="scanare">Balayage</string>
+
+
+    <string name="no_result">Sans résultat</string>
+
+    <string name="prospect">Prospectus</string>
+
+    <string name="prospect_unu">Composition:\nLa substance active est le dichlorhydrate de cétirizine.Une gélule contient 10 mg de dichlorhydrate de cétirizine. Les autres composants sont : macrogol, hydroxyde de potassium 43 % m/m, povidone, eau purifiée, gélatine, sorbitol (E420), glycérol, lécithine, triglycérides à chaîne moyenne, encre d"'inscription (propylène glycol, oxyde de fer noir (E172), acétate de polyvinyle phtalate, macrogol et hydroxyde d'ammonium).\nContre-indications:\nGrossesse et allaitement Si vous êtes enceinte ou que vous allaitez, si vous pensez être enceinte ou planifiez une grossesse, demandez conseil à votre médecin ou pharmacien avant de prendre ce médicament. Comme tout médicament, Reactin doit être évité chez les femmes enceintes. L'utilisation accidentelle du médicament par une femme enceinte ne devrait pas avoir d'effets nocifs sur le fœtus. Cependant. En conséquence, le médicament doit être arrêté. Vous ne devez pas prendre Reactin pendant l'allaitement, car la cétirizine est excrétée dans le lait maternel. Conduite de véhicules et utilisation de machines Des études cliniques n'ont montré aucun signe d'altération de l'attention, de la vigilance ou de la capacité à conduire après l'administration de Reactin à la dose recommandée, cependant la prudence est recommandée lors de la conduite ou de l'utilisation de machines. Si vous ressentez de la somnolence, vous devez vous abstenir de conduire, d'effectuer des activités potentiellement dangereuses ou d'utiliser des machines.\nLes directions:\nLe principe actif de Reactin est le dichlorhydrate de cétirizine. Reactin est un médicament antiallergique. Chez l'adulte, l'adolescent et l'enfant de 12 ans et plus, Reactin 10 mg capsules molles est indiqué pour : - le soulagement des symptômes nasaux et oculaires de la rhinite allergique saisonnière et perannuelle. - pour le soulagement de l'urticaire chronique (urticaire chronique idiopathique).\nPrécautions:\nAdressez-vous à votre médecin ou pharmacien avant de prendre Reactin. Si vous êtes un patient souffrant de problèmes hépatiques et rénaux, veuillez consulter un médecin. si nécessaire, vous prendrez une dose plus faible. La nouvelle dose sera fixée par votre médecin. Si vous avez des difficultés à uriner, vous devez demander l'avis de votre médecin. Si vous souffrez d'épilepsie ou si vous présentez un risque de convulsions, vous devriez consulter un médecin.</string>
+
+    <string name="prospect_doi">Composition:\nLa substance active est le bisacodil. Un comprimé gastro-résistant contient 5 mg de bisacodil. - Les autres composants sont : lactose monohydraté, dioxyde de silicium colloïdal anhydre, amidon de pomme de terre, cellulose microcristalline, stéarate de magnésium, talc, glycérides partiels à longue chaîne, couche d"'enrobage en acétophtalate de cellulose, glucose liquide, dextrine d'amidon, cire de montanglycol, huile de ricin, saccharose , dioxyde de silicium colloïdal anhydre, talc, dioxyde de titane (E 171)\nContre-indications:\n si vous êtes allergique (hypersensible) au bisacodil ou à l'un des autres composants contenus dans Stadalax mentionnés dans la rubrique 6 ;  si vous souffrez d'iléus (arrêt temporaire des selles péristaltiques) ou d'occlusion intestinale ;  si votre intestin est bloqué (occlusion intestinale) ;  si vous souffrez d'affections abdominales aiguës telles qu'une appendicite ;  si vous avez une inflammation aiguë des intestins (petit ou gros intestin) ;  si votre corps a perdu beaucoup de liquide (déshydratation) ;  si vous avez certains problèmes tels que des douleurs abdominales intenses, des nausées, des vomissements ou de la fièvre. Ceux-ci peuvent être des signes d'une maladie grave. Si vous ressentez de tels symptômes, vous devez consulter immédiatement un médecin.  chez les enfants de moins de 2 ans.\nLes directions:\nFaites attention avec Stadalax En cas de constipation, les laxatifs ne doivent être utilisés que pendant une courte période (généralement pas plus de 5 jours). Pour la constipation chronique, vous devez parler à votre médecin avant de prendre ce médicament. Si vous remarquez une sensation de soif ou une diminution de la quantité d'urine, qui peuvent être des signes de déshydratation due à une perte de liquide et peuvent être dangereux pour les personnes âgées ou les patients souffrant de problèmes rénaux, vous devez arrêter de prendre Stadalax et contacter votre médecin. L'utilisation excessive ou prolongée de laxatifs peut entraîner une perte de liquides, de potassium ou d'autres électrolytes pouvant entraîner des problèmes cardiaques ou une faiblesse musculaire. Les patients ont signalé du sang dans les selles, qui était généralement léger et s'est arrêté tout seul. Des étourdissements et/ou des syncopes ont été rapportés chez des patients traités par Stadalax. Ces événements peuvent être liés à la constipation et pas nécessairement à l'administration de Stadalax. Les laxatifs ne doivent pas être administrés aux enfants de moins de 10 ans sans l'avis d'un médecin.\nPrécautions:\nStadalax ne doit pas être pris avec du lait. Veuillez informer votre médecin ou votre pharmacien si vous prenez ou avez pris récemment d'autres médicaments, y compris des médicaments obtenus sans ordonnance et des médicaments à base de plantes. Médicaments neutralisant l'acide gastrique (antiacides) Les médicaments neutralisant l'acide gastrique (antiacides) ne doivent pas être pris avec Stadalax afin que le principe actif contenu dans Stadalax ne soit pas libéré trop rapidement. Si vous devez prendre un médicament pour l'estomac, prenez-le plus d'une demi-heure après la prise de Stadalax. Diurétiques (médicaments qui éliminent l'eau du corps), hormones corticostéroïdes La substance active bisacodil peut augmenter la perte de potassium provoquée par d'autres médicaments (par exemple, diurétiques, hormones corticostéroïdes). Médicaments stimulant le cœur La sensibilité à certains médicaments stimulant le cœur (hétérosides cardiaques) peut être augmentée en raison de la perte de potassium.</string>
+
+    <string name="prospect_trei">Composition:\nUne pastille contient : 0,5 mg de thyrotricine, 1,0 mg de chlorhydrate de lidocaïne, 1,0 mg de digluconate de chlorhexidine et excipients : sorbitol, stéarate de magnésium (végétal), huile de menthe poivrée.\nContre-indications:\nLe médicament ne doit pas être utilisé en cas de : • hypersensibilité connue à l"'un des constituants contenus dans Trachisan® - comprimés à sucer • desquamation non hémorragique de la muqueuse buccale (modifications érosives et de desquamation) lésions (plaies) plus importantes (récentes) de la cavité buccale et pharyngée; • enfants de moins de 4 ans En cas d'intolérance au fructose, le traitement ne doit être effectué qu'après consultation de votre médecin.\nLes directions:\nInflammation et infection des cavités buccales et pharyngées (stomatite, gingivite et amygdalite). Infections des voies respiratoires supérieures, mal de gorge, dysphagie.\nPrécautions:\nLes sportifs doivent être avertis que Trachisan® - comprimés à sucer contient comme ingrédient actif un anesthésique local (chlorhydrate de lidocaïne), qui peut provoquer une réaction faussement positive aux tests antidopage.</string>
+
+    <string name="prospect_patru">Composition:\nSucre, amidon de maïs, vitamine C, fructose, extrait de Steba rebaudian, huile essentielle de citron (Citri aetheroleum), huile essentielle de menthe poivrée (Menthae aetheroleum), huile essentielle d"'eucalyptus (Eucalyptus aetheroleum), extrait d'écorce de saule cortex) standardisé en min. 15% salicine 0,5%, extrait total de fleurs de choc (Sambuci flos), extrait total de trèfle des marais (Menyanthes trifoliata), extrait total de basilic (Basilici herba), extrait total d'hysope (Hyssopi herba) 0,5%.\nContre-indications:\nDéconseillé aux enfants de moins de 3 ans, aux personnes diabétiques et hypersensibles à l'un des ingrédients du produit.\nLes directions:\nAucune incompatibilité avec des médicaments n'a été rapportée aux doses recommandées. Aucun effet secondaire n'a été signalé.\nPrécautions:\nEnfants de 3 à 6 ans : 1 à 2 sachets par jour, répartis sur une journée. Enfants de 7 à 14 ans : 2 à 3 sachets par jour. Enfants de plus de 14 ans et adultes : 3 à 4 sachets par jour. La durée de la cure est de 3 à 7 jours, ou selon la recommandation du médecin.</string>
+
+    <string name="prospect_cinci">Composition:\nédulcorant (sorbitol), acide ascorbique, lactose monohydraté, acide citrique, citrate de sodium, édulcorants (mannitol, saccharine sodique, aspartame), talc, stéarate de magnésium. Un comprimé contient 180 mg de vitamine C (225% AJR/VNR*) *VNR = Valeur nutritionnelle de référence selon le Règlement UE 1169/2011\nContre-indications:\nN"'en faites pas trop avec le nombre de pilules prises.\nLes directions:\n- fonctionnement optimal du système immunitaire - réduction de la fatigue et de l'épuisement - amélioration de l'absorption du fer - fonctionnement normal du métabolisme - protection de l'organisme contre le stress oxydatif\nPrécautions:\nTenir hors de la portée et de la vue des enfants. Conserver en dessous de 25°C dans l'emballage d'origine. Ne pas dépasser la dose journalière recommandée. Le produit est un complément alimentaire et ne doit pas remplacer une alimentation variée et un mode de vie sain.</string>
+
+    <string name="prospect_sase">Composition:\nLa substance active est l"'acide acétylsalicylique. Chaque comprimé contient 500 mg d'acide acétylsalicylique. Dioxyde de silicium colloïdal anhydre, carbonate de sodium anhydre Film : cire de carnauba, hypromellose, stéarate de zinc\nContre-indications:\nComme tous les médicaments, ce médicament peut provoquer des effets indésirables, mais ils ne surviennent pas systématiquement chez tout le monde. Fréquences: fréquence inconnue - la fréquence ne peut être estimée à partir des données disponibles.\nLes directions:\nNe prenez pas ASPIRIN avec de l'alcool. - si vous êtes traité par méthotrexate à des doses supérieures à 20 mg par semaine. Dans ce cas, l'utilisation d'acide acétylsalicylique à fortes doses (doses anti-inflammatoires) ou l'utilisation d'acide acétylsalicylique pour le traitement de la douleur ou de la fièvre doit être évitée. - si vous êtes traité par des anticoagulants oraux et si vous avez eu un ulcère gastroduodénal. Dans ce cas, l'utilisation d'acide acétylsalicylique à fortes doses (doses anti-inflammatoires) ou l'utilisation d'acide acétylsalicylique pour le traitement de la douleur ou de la fièvre doit être évitée.\nPrécautions:\nAdressez-vous à votre médecin ou pharmacien avant de prendre de l'acide acétylsalicylique avec l'un des médicaments suivants : - les anticoagulants oraux, lorsque l'acide acétylsalicylique est utilisé pour traiter la douleur et la fièvre, si vous n'avez pas eu d'ulcère gastroduodénal - les anti-inflammatoires non stéroïdiens, lorsque l'acide acétylsalicylique est utilisé à fortes doses (anti-inflammatoire) ou pour le traitement de la douleur et de la fièvre - héparine utilisée à doses curatives ou chez les patients âgés (? 65 ans), lorsque l'acide acétylsalicylique est utilisé à fortes doses (anti-inflammatoire), en particulier pour le traitement des maladies rhumatismales ou pour le traitement de la douleur et de la fièvre - thrombolytiques - clopidogrel - ticlopidine - médicaments uricosuriques utilisés dans le traitement de la goutte (par exemple benzbromarone, probénécide) - glucocorticoïdes (sauf thérapie de remplacement de l'hydrocortisone), lors de l'utilisation d'une dose d'acide acétylique (anti-inflammatoire) pemetrexed, chez les patients présentant une insuffisance rénale légère à modérée anagrélide - médicaments contre la rétention d'eau (diurétiques) - inhibiteurs de l'enzyme de conversion de l'angiotensine, antagonistes des récepteurs de l'angiotensine II - méthotrexate utilisé à des doses de 20 mg ou moins par semaine - médicaments gastro-intestinaux topiques, antiacides et charbon - déférasirox - inhibiteurs sélectifs de la recapture de la sérotonine (par exemple citalopram, escitalopram, fluoxétine, fluvoxamine, paroxétine, sertraline).</string>
+
+    <string name="prospect_sapte">Composition:\nLes substances actives sont : paracétamol 500 mg, maléate de chlorophénamine 3 mg, chlorhydrate de pseudoéphédrine 30 mg. Les autres composants sont : amidon prégélatinisé, talc, povidone, acide stéarique, stéarate de magnésium.\nContre-indications:\nN"'utilisez jamais Parasinus : - si vous êtes allergique (hypersensible) au paracétamol, à la pseudoéphédrine, à la chlorophénamine, à la phénacétine, à d'autres antihistaminiques, à d'autres anti-inflammatoires (risque accru de réactions allergiques) ou à l'un des autres composants contenus dans Parasinus ; - Il ne doit pas être utilisé chez les enfants de moins de 12 ans, sauf indication contraire d'un médecin.\nLes directions:\nParasinus est indiqué dans : la prophylaxie et le traitement de l'inflammation de la muqueuse nasale (rhinite) de nature allergique et vasomotrice et pour le traitement symptomatique du rhume et de la grippe (pour le soulagement des éternuements, de la rhinorrhée, de la congestion nasale et des sinus, de la fièvre, des maux de tête , yeux larmoyants, douleurs aux sinus) et pour le traitement symptomatique des douleurs légères à modérées de localisations diverses : maux de tête, maux de gorge, douleurs articulaires ou dorsales, maux de dents, douleurs pendant le cycle menstruel, névralgies, migraines.\nPrécautions:\nAdressez-vous à votre médecin ou pharmacien avant d'utiliser Parasinus.</string>
+</resources>

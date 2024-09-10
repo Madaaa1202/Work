@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/MedicalFriend/app/src/main/res/drawable-v24/bgapp.xml" value="0.26615384615384613" />
+        <entry key="..\:/MedicalFriend/app/src/main/res/drawable-v24/buton_pagina_cont.xml" value="0.26615384615384613" />
+        <entry key="..\:/MedicalFriend/app/src/main/res/drawable-v24/cpb_1.xml" value="0.26615384615384613" />
+        <entry key="..\:/MedicalFriend/app/src/main/res/drawable/bg_spinner.xml" value="0.1445" />
+        <entry key="..\:/MedicalFriend/app/src/main/res/drawable/buton_pagini_afectiuni.xml" value="0.1445" />
+        <entry key="..\:/MedicalFriend/app/src/main/res/drawable/ic_add.xml" value="0.1205" />
+        <entry key="..\:/MedicalFriend/app/src/main/res/drawable/ic_add_alert_black_24dp.xml" value="0.1205" />
+        <entry key="..\:/MedicalFriend/app/src/main/res/layout/activity_add_reminder.xml" value="0.19610507246376813" />
+        <entry key="..\:/MedicalFriend/app/src/main/res/layout/activity_afectiuni_abdomen_constipation.xml" value="0.25416666666666665" />
+        <entry key="..\:/MedicalFriend/app/src/main/res/layout/activity_afectiuni_abdomen_diaree.xml" value="0.25416666666666665" />
+        <entry key="..\:/MedicalFriend/app/src/main/res/layout/activity_afectiuni_abdomen_pain.xml" value="0.25416666666666665" />
+        <entry key="..\:/MedicalFriend/app/src/main/res/layout/activity_afectiuni_abdomen_pain_in_pregnancy.xml" value="0.25416666666666665" />
+        <entry key="..\:/MedicalFriend/app/src/main/res/layout/activity_afectiuni_abdomen_swelling.xml" value="0.25416666666666665" />
+        <entry key="..\:/MedicalFriend/app/src/main/res/layout/activity_afectiuni_abdomen_varsaturi.xml" value="0.25416666666666665" />
+        <entry key="..\:/MedicalFriend/app/src/main/res/layout/activity_afectiuni_abdomen_varsaturi_cu_sange.xml" value="0.25416666666666665" />
+        <entry key="..\:/MedicalFriend/app/src/main/res/layout/activity_afectiuni_cerebrale_ameteala.xml" value="0.25416666666666665" />
+        <entry key="..\:/MedicalFriend/app/src/main/res/layout/activity_afectiuni_cerebrale_confuzie.xml" value="0.2" />
+        <entry key="..\:/MedicalFriend/app/src/main/res/layout/activity_afectiuni_cerebrale_durere_de_cap.xml" value="0.2" />
+        <entry key="..\:/MedicalFriend/app/src/main/res/layout/activity_afectiuni_sani_durere_de_san.xml" value="0.24010416666666667" />
+        <entry key="..\:/MedicalFriend/app/src/main/res/layout/activity_afectiuni_sani_lumpi_la_femei.xml" value="0.2" />
+        <entry key="..\:/MedicalFriend/app/src/main/res/layout/activity_afectiuni_sani_marirea_sanilor_la_barbati.xml" value="0.20923913043478262" />
+        <entry key="..\:/MedicalFriend/app/src/main/res/layout/activity_afisare_prospect.xml" value="0.19610507246376813" />
+        <entry key="..\:/MedicalFriend/app/src/main/res/layout/activity_alarma.xml" value="0.19610507246376813" />
+        <entry key="..\:/MedicalFriend/app/src/main/res/layout/activity_alarma2.xml" value="0.19610507246376813" />
+        <entry key="..\:/MedicalFriend/app/src/main/res/layout/activity_compozitie_prospect.xml" value="0.19610507246376813" />
+        <entry key="..\:/MedicalFriend/app/src/main/res/layout/activity_compozitie_prospect2.xml" value="0.12360688956433637" />
+        <entry key="..\:/MedicalFriend/app/src/main/res/layout/activity_compozitie_prospect3.xml" value="0.19610507246376813" />
+        <entry key="..\:/MedicalFriend/app/src/main/res/layout/activity_compozitie_prospect4.xml" value="0.19610507246376813" />
+        <entry key="..\:/MedicalFriend/app/src/main/res/layout/activity_compozitie_prospect5.xml" value="0.19610507246376813" />
+        <entry key="..\:/MedicalFriend/app/src/main/res/layout/activity_compozitie_prospect6.xml" value="0.19610507246376813" />
+        <entry key="..\:/MedicalFriend/app/src/main/res/layout/activity_compozitie_prospect7.xml" value="0.19610507246376813" />
+        <entry key="..\:/MedicalFriend/app/src/main/res/layout/activity_contraindicatii2.xml" value="0.19610507246376813" />
+        <entry key="..\:/MedicalFriend/app/src/main/res/layout/activity_contraindicatii3.xml" value="0.19610507246376813" />
+        <entry key="..\:/MedicalFriend/app/src/main/res/layout/activity_contraindicatii4.xml" value="0.19610507246376813" />
+        <entry key="..\:/MedicalFriend/app/src/main/res/layout/activity_contraindicatii5.xml" value="0.19610507246376813" />
+        <entry key="..\:/MedicalFriend/app/src/main/res/layout/activity_contraindicatii6.xml" value="0.19610507246376813" />
+        <entry key="..\:/MedicalFriend/app/src/main/res/layout/activity_contraindicatii7.xml" value="0.19610507246376813" />
+        <entry key="..\:/MedicalFriend/app/src/main/res/layout/activity_contraindicatii_prospect.xml" value="0.19610507246376813" />
+        <entry key="..\:/MedicalFriend/app/src/main/res/layout/activity_gps.xml" value="0.19610507246376813" />
+        <entry key="..\:/MedicalFriend/app/src/main/res/layout/activity_guest_interfata_principala.xml" value="0.25416666666666665" />
+        <entry key="..\:/MedicalFriend/app/src/main/res/layout/activity_indicatii.xml" value="0.19610507246376813" />
+        <entry key="..\:/MedicalFriend/app/src/main/res/layout/activity_indicatii2.xml" value="0.19610507246376813" />
+        <entry key="..\:/MedicalFriend/app/src/main/res/layout/activity_indicatii3.xml" value="0.19610507246376813" />
+        <entry key="..\:/MedicalFriend/app/src/main/res/layout/activity_indicatii4.xml" value="0.19610507246376813" />
+        <entry key="..\:/MedicalFriend/app/src/main/res/layout/activity_indicatii5.xml" value="0.19610507246376813" />
+        <entry key="..\:/MedicalFriend/app/src/main/res/layout/activity_indicatii6.xml" value="0.19610507246376813" />
+        <entry key="..\:/MedicalFriend/app/src/main/res/layout/activity_indicatii7.xml" value="0.19610507246376813" />
+        <entry key="..\:/MedicalFriend/app/src/main/res/layout/activity_interfata_principala_afectiuni.xml" value="0.2" />
+        <entry key="..\:/MedicalFriend/app/src/main/res/layout/activity_interfata_principala_afectiuni_sani.xml" value="0.25416666666666665" />
+        <entry key="..\:/MedicalFriend/app/src/main/res/layout/activity_lista_medici_contacte.xml" value="0.19610507246376813" />
+        <entry key="..\:/MedicalFriend/app/src/main/res/layout/activity_main.xml" value="0.176" />
+        <entry key="..\:/MedicalFriend/app/src/main/res/layout/activity_ne_cerem_scuze.xml" value="0.19610507246376813" />
+        <entry key="..\:/MedicalFriend/app/src/main/res/layout/activity_pagina_autentificare.xml" value="0.19610507246376813" />
+        <entry key="..\:/MedicalFriend/app/src/main/res/layout/activity_pagina_inregistrare.xml" value="0.19610507246376813" />
+        <entry key="..\:/MedicalFriend/app/src/main/res/layout/activity_pagina_principala_afectiuni_abdomen.xml" value="0.25416666666666665" />
+        <entry key="..\:/MedicalFriend/app/src/main/res/layout/activity_pagina_principala_afectiuni_cerebral.xml" value="0.25416666666666665" />
+        <entry key="..\:/MedicalFriend/app/src/main/res/layout/activity_pagina_principala_afectiuni_ciclu_menstrual.xml" value="0.25416666666666665" />
+        <entry key="..\:/MedicalFriend/app/src/main/res/layout/activity_pagina_principala_afectiuni_fata.xml" value="0.25416666666666665" />
+        <entry key="..\:/MedicalFriend/app/src/main/res/layout/activity_pagina_principala_afectiuni_fizic_general.xml" value="0.25416666666666665" />
+        <entry key="..\:/MedicalFriend/app/src/main/res/layout/activity_pagina_principala_afectiuni_gat.xml" value="0.25416666666666665" />
+        <entry key="..\:/MedicalFriend/app/src/main/res/layout/activity_pagina_principala_afectiuni_genitale.xml" value="0.25416666666666665" />
+        <entry key="..\:/MedicalFriend/app/src/main/res/layout/activity_pagina_principala_afectiuni_membre.xml" value="0.25416666666666665" />
+        <entry key="..\:/MedicalFriend/app/src/main/res/layout/activity_pagina_principala_afectiuni_nas.xml" value="0.25416666666666665" />
+        <entry key="..\:/MedicalFriend/app/src/main/res/layout/activity_pagina_principala_afectiuni_ochi.xml" value="0.2" />
+        <entry key="..\:/MedicalFriend/app/src/main/res/layout/activity_pagina_principala_afectiuni_orale.xml" value="0.25416666666666665" />
+        <entry key="..\:/MedicalFriend/app/src/main/res/layout/activity_pagina_principala_afectiuni_par_si_unghii.xml" value="0.25416666666666665" />
+        <entry key="..\:/MedicalFriend/app/src/main/res/layout/activity_pagina_principala_afectiuni_pelvine.xml" value="0.25416666666666665" />
+        <entry key="..\:/MedicalFriend/app/src/main/res/layout/activity_pagina_principala_afectiuni_piele.xml" value="0.25416666666666665" />
+        <entry key="..\:/MedicalFriend/app/src/main/res/layout/activity_pagina_principala_afectiuni_piept.xml" value="0.2" />
+        <entry key="..\:/MedicalFriend/app/src/main/res/layout/activity_pagina_principala_afectiuni_sani.xml" value="0.25416666666666665" />
+        <entry key="..\:/MedicalFriend/app/src/main/res/layout/activity_pagina_principala_afectiuni_ureche.xml" value="0.2" />
+        <entry key="..\:/MedicalFriend/app/src/main/res/layout/activity_pagina_principala_afectiuni_urinare.xml" value="0.25416666666666665" />
+        <entry key="..\:/MedicalFriend/app/src/main/res/layout/activity_pagina_principala_chat_bot.xml" value="0.176" />
+        <entry key="..\:/MedicalFriend/app/src/main/res/layout/activity_pagina_principala_dupa_autentificare.xml" value="0.19610507246376813" />
+        <entry key="..\:/MedicalFriend/app/src/main/res/layout/activity_pagina_principala_scanare.xml" value="0.19610507246376813" />
+        <entry key="..\:/MedicalFriend/app/src/main/res/layout/activity_pagina_principala_scanare2.xml" value="0.11302083333333333" />
+        <entry key="..\:/MedicalFriend/app/src/main/res/layout/activity_pagina_selectare_tip_cont_utilizator.xml" value="0.2" />
+        <entry key="..\:/MedicalFriend/app/src/main/res/layout/activity_precautii.xml" value="0.19610507246376813" />
+        <entry key="..\:/MedicalFriend/app/src/main/res/layout/activity_precautii2.xml" value="0.19610507246376813" />
+        <entry key="..\:/MedicalFriend/app/src/main/res/layout/activity_precautii3.xml" value="0.19610507246376813" />
+        <entry key="..\:/MedicalFriend/app/src/main/res/layout/activity_precautii4.xml" value="0.19610507246376813" />
+        <entry key="..\:/MedicalFriend/app/src/main/res/layout/activity_precautii5.xml" value="0.19610507246376813" />
+        <entry key="..\:/MedicalFriend/app/src/main/res/layout/activity_precautii6.xml" value="0.19610507246376813" />
+        <entry key="..\:/MedicalFriend/app/src/main/res/layout/activity_precautii7.xml" value="0.19610507246376813" />
+        <entry key="..\:/MedicalFriend/app/src/main/res/layout/activity_prospect_in_alta_limba_nu_ro.xml" value="0.19610507246376813" />
+        <entry key="..\:/MedicalFriend/app/src/main/res/layout/activity_scuze.xml" value="0.19610507246376813" />
+        <entry key="..\:/MedicalFriend/app/src/main/res/layout/activity_select_application_language.xml" value="0.2" />
+        <entry key="..\:/MedicalFriend/app/src/main/res/layout/activity_splash.xml" value="0.17083333333333334" />
+        <entry key="..\:/MedicalFriend/app/src/main/res/layout/bot_reply.xml" value="0.19610507246376813" />
+        <entry key="..\:/MedicalFriend/app/src/main/res/layout/item.xml" value="0.19610507246376813" />
+        <entry key="..\:/MedicalFriend/app/src/main/res/layout/user_holder.xml" value="0.19610507246376813" />
+        <entry key="..\:/MedicalFriend/app/src/main/res/menu/menu_add_reminder.xml" value="0.25416666666666665" />
+        <entry key="..\:/MedicalFriend/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1205" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectPlainTextFileTypeManager">
+    <file url="file://$PROJECT_DIR$/app/src/main/res/values-ro-rRO/dimens.xml" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

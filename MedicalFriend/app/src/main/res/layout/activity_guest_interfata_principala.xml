@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="GuestInterface.GuestInterfataPrincipala"
+    android:background="@drawable/guestimage">
+
+    <Button
+        android:id="@+id/ButonListaAfectiuni"
+        android:layout_width="178dp"
+        android:layout_height="72dp"
+        android:background="@drawable/buton_pagini_afectiuni"
+        android:text="@string/butonGuestPrincipal"
+        android:textColor="#000000"
+        android:textSize="15sp"
+        android:textStyle="italic"
+        android:visibility="visible"
+        app:iconTint="#ffb7c8"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.497"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.324"
+        app:strokeColor="#EDE7F6"
+        tools:ignore="MissingConstraints,SpeakableTextPresentCheck" />
+
+    <Button
+        android:id="@+id/ButonListaScanare"
+        android:layout_width="178dp"
+        android:layout_height="72dp"
+        android:background="@drawable/buton_pagini_afectiuni"
+        android:text="@string/GuestScanare"
+        android:textColor="#000000"
+        android:textSize="15sp"
+        android:textStyle="italic"
+        android:visibility="visible"
+        app:iconTint="#ffb7c8"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.497"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.599"
+        app:strokeColor="#EDE7F6"
+        tools:ignore="MissingConstraints,SpeakableTextPresentCheck" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

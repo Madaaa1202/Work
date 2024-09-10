@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+	<category>
+		<pattern>Hi</pattern>
+		<template>Hello! My name is Diagnostication chatbot, a part of MedicalFriend Project. How may I assist you today?</template>
+	</category>
+	<category>
+		<pattern>Hello</pattern>
+		<template>Hello! My name is Diagnostication chatbot, a part of MedicalFriend Project. How may I assist you today?</template>
+	</category>
+	//case 1, consultatie pentru persona in sine
+	<category>
+		<pattern>I need your help</pattern>
+		<template>Okay, is this diagnostication for yourself?</template>
+	</category>
+	<category>
+		<pattern>Yes, it is for me</pattern>
+		<template>Are you pregnant?</template>
+	</category>
+	<category>
+		<pattern>No, I am not pregnant</pattern>
+		<template>Do you have a headache?</template>
+	</category>
+	<category>
+		<pattern>Yes, my head hurts</pattern>
+		<template>How long has this been going on?</template>
+	</category>
+	<category>
+		<pattern>One day to one week</pattern>
+		<template>Is your headache mainly located on one or both sides of the head?</template>
+	</category>
+	<category>
+		<pattern>One side</pattern>
+		<template>It is a pounding headache?</template>
+	</category>
+	<category>
+		<pattern>Yes</pattern>
+		<template>How does bending forward affect your headache?</template>
+	</category>
+	<category>
+		<pattern>No effect</pattern>
+		<template>How would you describe the intensity of your headache?</template>
+	</category>
+	<category>
+		<pattern>Sever</pattern>
+		<template>Do you have any other symptoms?</template>
+	</category>
+	<category>
+		<pattern>No, I do not have</pattern>
+		<template>Do you have to avoid looking at bright light because it causes eye pain?</template>
+	</category>
+	<category>
+		<pattern>Yes, I avoid the light</pattern>
+		<template>Are your pupils different in size from one another?</template>
+	</category>
+	<category>
+		<pattern>Yes, my pupils are different</pattern>
+		<template>Do you have pain in the bones or skin around your eye socket?</template>
+	</category>
+	<category>
+		<pattern>Yes, I have the pain</pattern>
+		<template>Do you have pain behind the eye?</template>
+	</category>
+	<category>
+		<pattern>Yes, I have the pain behind the eye</pattern>
+		<template>Do you feel nervous, tense or distressed?</template>
+	</category>
+	
+	<category>
+		<pattern>Yes, I feel nervous</pattern>
+		<template>Is this affecting your daily life, including your ability to work, relate to others, or take care of your family or home?</template>
+	</category>
+	<category>
+		<pattern>Yes, I feel tense</pattern>
+		<template>Is this affecting your daily life, including your ability to work, relate to others, or take care of your family or home?</template>
+	</category>
+	<category>
+		<pattern>Yes, I feel distressed</pattern>
+		<template>Is this affecting your daily life, including your ability to work, relate to others, or take care of your family or home?</template>
+	</category>
+	<category>
+		<pattern>Yes, to the poin of being unable to manage usual activities</pattern>
+		<template>Do you have any eye pain?</template>
+	</category>
+	<category>
+		<pattern>Yes, my eye hurts</pattern>
+		<template>How would you describe the intensity of your eye pain?</template>
+	</category>
+	<category>
+		<pattern>My eyes hurt severely</pattern>
+		<template>Are one or both of your eyes painful?</template>
+	</category>
+	<category>
+		<pattern>Both eyes</pattern>
+		<template>Do you have a runny nose?</template>
+	</category>
+	<category>
+		<pattern>Yes, I have a runny nose</pattern>
+		<template>How woul you best describe the apparance of your nasal discharge?</template>
+	</category>
+	<category>
+		<pattern>Yellow, green or brown/black</pattern>
+		<template>Do you have watering eyes?</template>
+	</category>
+	<category>
+		<pattern>Yes, I have watering eyes</pattern>
+		<template>Do you feel nauseous?</template>
+	</category>
+	<category>
+		<pattern>Yes, I feel nauseous</pattern>
+		<template>How would you describe the intensity of your nausea?</template>
+	</category>
+	<category>
+		<pattern>Moderate</pattern>
+		<template>Do you have a drooping eyelid?</template>
+	</category>
+	<category>
+		<pattern>No, I do not have a droopping eyelid</pattern>
+		<template>How are your symptoms changing over time?</template>
+	</category>
+	<category>
+		<pattern>They are getting worse</pattern>
+		<template>First of all, do not forget that this is not a medical oppinion. The best advice is to consult a doctor's oppinion. Possible causes for the symptoms that you describet before are CLUSTER HEADACHE.</template>
+	</category>
+</aiml>

@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Prieten medical</string>
+    <string name="text_buton_scanare" translatable="false">Scanare cod de bare</string>
+    <string name="add_pills_bar" translatable="false">Adăugați cod de bare</string>
+    <string name="delete_pills_bar" translatable="false">Ștergeți codul de bare</string>
+    <string name="view_pills_recipe" translatable="false">Vizualizați prospectul</string>
+    <string name="welcome" translatable="false">Bine ați venit</string>
+    <string name="text_buton_afectiuni" translatable="false">Afecțiuni</string>
+    <string name="text_buton_cont" translatable="false">Cont</string>
+    <string name="text_pagina_cont" translatable="false">Bună!</string>
+    <string name="text_pagina_cont_login" translatable="false">Aveți un cont?</string>
+    <string name="text_pagina_cont_signup" translatable="false">Creați un cont aici!</string>
+    <string name="text_pagina_cont_buton_login" translatable="false">Autentificare</string>
+    <string name="text_pagina_cont_buton_signup" translatable="false">Înscrieți-vă</string>
+    <string name="usernameReg" translatable="false">Nume de utilizator</string>
+    <string name="emailReg" translatable="false">Adresă de e-mail</string>
+    <string name="passwordReg" translatable="false">Parolă</string>
+    <string name="signin_redirect" translatable="false">Deja un membru? Autentificaţi-vă!</string>
+    <string name="buton_guest">Oaspete</string>
+    <string name="buton_language">Limbă</string>
+    <string name="butonGuestPrincipal">Lista afecțiunilor</string>
+    <string name="TextSelectSpinnerGuest">Selectați</string>
+    <string name="textverificare">Verificare...</string>
+    <string name="textautentificarereusita">Autentificare reușită!</string>
+    <string name="textdategresite">Adresă de e-mail sau parolă greșită!</string>
+    <string name="textcampemailgol">E-mailul nu este completat!</string>
+    <string name="textcampparolagol">Parola nu este completată!</string>
+    <string name="textcontinregistrat">Contul a fost creat cu succes!</string>
+    <string name="textcontexistent" >Pentru această adresă de e-mail există deja un cont!</string>
+    <string name="textgolusername" translatable="false">Câmpul nume de utilizator este gol!</string>
+
+    <!--Pagina principala dupa autentificare-->
+    <string name="textLocalizare">GPS</string>
+    <string name="alarma">Alarmă</string>
+    <string name="no_cardetails">Faceți clic pe butonul de mai jos pentru a începe să vă creați memento-ul!</string>
+    <string name="title_activity_edit_reminder">EEditați mementoul</string>
+    <string name="title_activity_licenses">Licențe</string>
+
+    <string name="add_reminder">Alarmă</string>
+    <string name="details">Detalii</string>
+    <string name="date">Data</string>
+    <string name="time">Timp</string>
+    <string name="repeat">Repeta</string>
+    <string name="repeat_off">Off</string>
+    <string name="repeat_no">Interval de repetare</string>
+    <string name="repeat_type">Tipuri de repetiții</string>
+
+    <string name="action_discard_reminder">Renunțați la memento</string>
+    <string name="action_save_reminder">Salvați memento</string>
+
+    <string name="editor_activity_title_new_reminder">Adăugați detalii de memento</string>
+    <string name="editor_activity_title_edit_reminder">Editați mementoul</string>
+    <string name="unsaved_changes_dialog_msg">Renunțați la modificări și renunțați la editare?</string>
+    <string name="discard">Renunță</string>
+
+    <string name="keep_editing">Continuați să editațig</string>
+    <string name="delete_dialog_msg">Ștergeți acest memento?</string>
+
+    <string name="delete">Șterge</string>
+
+    <string name="cancel">Anulare</string>
+    <string name="editor_delete_reminder_successful">Memento a fost șters</string>
+
+    <string name="editor_delete_reminder_failed">Eroare la ștergerea mementoului</string>
+
+    <string name="editor_insert_reminder_successful">Memento salvat</string>
+
+    <string name="editor_insert_reminder_failed">Eroare la salvarea mementoului</string>
+
+    <string name="editor_update_reminder_successful">Memento actualizat</string>
+
+    <string name="editor_update_reminder_failed">Eroare la actualizarea mementoului</string>
+
+    <string name="reminder_title">Memento de alarmă </string>
+
+    <string name="title_activity_add_reminder">Adăugați un memento</string>
+    <!--                                                           -->
+
+    <!--Afectiuni din zona abdominala-->
+    <string name="afectiuneabdomen1">Umflarea abdomenului</string>
+    <string name="afectiuneabdomen2" translatable="false">Dureri abdominale la adulți</string>
+    <string name="afectiuneabdomen3" translatable="false">Durere de sarcină</string>
+    <string name="afectiuneabdomen4" translatable="false">Constipație</string>
+    <string name="afectiuneabdomen5" translatable="false">Diaree</string>
+    <string name="afectiuneabdomen6" translatable="false">Vărsături</string>
+    <string name="afectiuneabdomen7" translatable="false">Vărsături cu sânge</string>
+    <!--                             -->
+
+    <!--Afectiuni sani-->
+    <string name="afectiunisani1" translatable="false">Mărirea sânilor la bărbați</string>
+    <string name="afectiunisani2" translatable="false">Lumpuri de sân la femei</string>
+    <string name="afectiunisani3" translatable="false">Dureri de sân</string>
+    <!--                             -->
+
+    <!--Afectiuni cerebrale-->
+    <string name="afectiunicerebrale1" translatable="false">Confuzie acută</string>
+    <string name="afectiunicerebrale2" translatable="false">Ameţeală</string>
+    <string name="afectiunicerebrale3" translatable="false">Durere de cap</string>
+
+    <!--                             -->
+
+    <string name="afectiunipiept" translatable="false">Dureri în piept</string>
+    <string name="afectiuniureche" translatable="false">Dureri de urechi</string>
+    <string name="afectiuniochi" translatable="false">Viziune dubla</string>
+
+    <string name="GuestScanare" translatable="false">Opțiuni pentru coduri de bare</string>
+
+    <string name="lista">Lista medicilor</string>
+
+    <string name="timeSet">Setați ora aici în secunde</string>
+
+    <string name="chat">Chatbot</string>
+    <string name="text">Introduceți mesajul dvs</string>
+
+    <string name="botResp">Răspunsul botului</string>
+
+    <string name="please">Vă rugăm să introduceți mesajul dvs</string>
+
+    <string name="no">Niciun raspuns</string>
+
+    <string name="iesire">Deconectați-vă</string>
+
+
+    <string name="afisare">Deschide</string>
+
+    <string name="rezultat_scanare">Rezultatul Scanării</string>
+
+    <string name="scanare"></string>
+
+    <string name="no_result">Fără rezultat</string>
+
+    <string name="prospect">Prospect</string>
+
+    <string name="prospect_unu"> </string>
+
+    <string name="prospect_doi"> </string>
+
+    <string name="prospect_trei"> </string>
+
+    <string name="prospect_patru"> </string>
+
+    <string name="prospect_cinci"> </string>
+
+    <string name="prospect_sase"> </string>
+
+    <string name="prospect_sapte"> </string>
+</resources>

@@ -1,0 +1,148 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Medical Friend</string>
+    <string name="welcome">Welcome</string>
+    <string name="text_buton_scanare">Scan barcode</string>
+    <string name="add_pills_bar">Add barcode</string>
+    <string name="delete_pills_bar">Delete barcode</string>
+    <string name="view_pills_recipe">View prospectus</string>
+    <string name="text_buton_afectiuni">Diseases</string>
+
+    <!-- Texte pentru pagina de autentificare si inregistrare-->
+    <string name="text_buton_cont">Account</string>
+    <string name="text_pagina_cont">Hello!</string>
+    <string name="text_pagina_cont_login">Do you have an account?</string>
+    <string name="text_pagina_cont_signup">Create an account here!</string>
+    <string name="text_pagina_cont_buton_login">LogIn</string>
+    <string name="text_pagina_cont_buton_signup">Sign Up</string>
+    <string name="usernameReg">Username</string>
+    <string name="emailReg">Email address</string>
+    <string name="passwordReg">Password</string>
+    <string name="signin_redirect">Already a member? LogIn!</string>
+    <string name="textverificare">Verification...</string>
+    <string name="textautentificarereusita">Login successful!</string>
+    <string name="textdategresite">Wrong email address or password!</string>
+    <string name="textcampemailgol">The email is not completed!</string>
+    <string name="textcampparolagol">The password is not completed!</string>
+    <string name="textcontinregistrat">The account was successfully created!</string>
+    <string name="textcontexistent">For this email address already exists an account!</string>
+    <string name="textgolusername">The username field is empty!</string>
+    <!--                                                           -->
+    <!--Pagina principala dupa autentificare-->
+    <string name="textLocalizare">GPS</string>
+    <!--                                                           -->
+
+    <string name="buton_guest" translatable="false">Guest</string>
+    <string name="buton_language">Language</string>
+    <string name="butonGuestPrincipal">List of ailments</string>
+    <string name="TextSelectSpinnerGuest" translatable="false">Select</string>
+
+
+    <!--Afectiuni din zona abdominala-->
+    <string name="afectiuneabdomen1">Abdominal Swelling</string>
+    <string name="afectiuneabdomen2">Adult abdominal pain</string>
+    <string name="afectiuneabdomen3">Pain in pregnancy</string>
+    <string name="afectiuneabdomen4">Constipation</string>
+    <string name="afectiuneabdomen5">Diarrhoea</string>
+    <string name="afectiuneabdomen6">Vomiting</string>
+    <string name="afectiuneabdomen7">Vomiting blood</string>
+    <!--                             -->
+
+    <!--Afectiuni sani-->
+    <string name="afectiunisani1">Breast enlargement in men</string>
+    <string name="afectiunisani2">Breast lumps in women</string>
+    <string name="afectiunisani3">Breast pain</string>
+    <!--                             -->
+
+    <!--Afectiuni cerebrale-->
+    <string name="afectiunicerebrale1">Acute confusion</string>
+    <string name="afectiunicerebrale2">Dizziness</string>
+    <string name="afectiunicerebrale3">Headache</string>
+
+    <!--                             -->
+    <string name="afectiunipiept">Chest pain</string>
+    <string name="afectiuniureche">Earache</string>
+    <string name="afectiuniochi">Double vision</string>
+
+
+    <string name="GuestScanare">Barcode options</string>
+    <string name="alarma">Reminder</string>
+    <string name="no_cardetails">Click on the button below to begin creating your reminder!</string>
+    <string name="title_activity_edit_reminder">Edit Reminder</string>
+    <string name="title_activity_licenses">Licenses</string>
+    <string name="add_reminder">Reminder</string>
+    <string name="details">Details</string>
+    <string name="date">Date</string>
+    <string name="time">Time</string>
+    <string name="repeat">Repeat</string>
+    <string name="repeat_off">Off</string>
+    <string name="repeat_no">Repetition Interval </string>
+    <string name="repeat_type">Type of Repetitions</string>
+
+    <string name="action_discard_reminder">Discard Reminder</string>
+    <string name="action_save_reminder">Save Reminder</string>
+
+    <string name="editor_activity_title_new_reminder">Add Reminder Details</string>
+    <string name="editor_activity_title_edit_reminder">Edit Reminder</string>
+    <string name="unsaved_changes_dialog_msg">Discard your changes and quit editing?</string>
+    <string name="discard">Discard</string>
+
+    <string name="keep_editing">Keep Editing</string>
+    <string name="delete_dialog_msg">Delete this Reminder?</string>
+
+    <string name="delete">Delete</string>
+
+    <string name="cancel">Cancel</string>
+    <string name="editor_delete_reminder_successful">Reminder deleted</string>
+
+    <string name="editor_delete_reminder_failed">Error with deleting reminder</string>
+
+    <string name="editor_insert_reminder_successful">Reminder saved</string>
+
+    <string name="editor_insert_reminder_failed">Error with saving reminder</string>
+
+    <string name="editor_update_reminder_successful">Reminder updated</string>
+
+    <string name="editor_update_reminder_failed">Error with updating reminder</string>
+
+    <string name="reminder_title">AlarmReminder</string>
+
+    <string name="title_activity_add_reminder">Add Reminder</string>
+
+
+    <string name="scuze" translatable="false">This feature is available only for Romania at this moment. Thank you for the understanding!</string>
+
+    <string name="lista">List of doctors</string>
+
+    <string name="timeSet">Set time here in seconds</string>
+
+    <string name="chat">Chatbot</string>
+
+    <string name="text">Enter your message</string>
+
+    <string name="botResp">Bot response</string>
+
+    <string name="please">Please enter your message</string>
+
+    <string name="no">No response</string>
+
+    <string name="iesire">Log out</string>
+
+    <string name="afisare">Open</string>
+
+
+    <string name="rezultat_scanare">Scan Result</string>
+
+    <string name="scanare">Scanning</string>
+
+    <string name="no_result">Without result</string>
+
+    <string name="prospect">Prospectus</string>
+    
+    <string name="prospect_unu">Composition:\nThe active substance is cetirizine dihydrochloride. One capsule contains 10 mg cetirizine dihydrochloride. The other ingredients are: macrogol, 43% m \/ m potassium hydroxide, povidone, purified water, gelatin, sorbitol (E420), glycerol, lecithin, medium chain triglycerides, inscription ink (propylene glycol, black iron oxide (E172), polyvinyl acetate phthalate, macrogol and ammonium hydroxide).\nContraindications:\nPregnancy and breast-feeding If you are pregnant or breast-feeding, think you may be pregnant or are planning to have a baby, ask your doctor or pharmacist for advice before taking this medicine. As with any medicine, Reactin should be avoided in pregnant women. Accidental use of the drug by a pregnant woman should not cause harmful effects to the fetus. However. As a result, the drug should be discontinued. You should not take Reactin while breast-feeding, as cetirizine is excreted in human milk. Driving and using machines Clinical studies have shown no evidence of impaired attention, alertness or the ability to drive after administration of Reactin at the recommended dose, however caution is advised when driving or using machines. If you experience drowsiness, you should refrain from driving, carrying out potentially hazardous activities, or using machinery.\nDirections:\nThe active substance in Reactin is cetirizine dihydrochloride. Reactin is an antiallergic medicine. In adults, adolescents and children 12 years of age and older, Reactin 10 mg soft capsules is indicated for:  for the relief of nasal and ocular symptoms of seasonal and perennial allergic rhinitis.  for the relief of chronic urticaria (chronic idiopathic urticaria).\nPrecautions:\nTalk to your doctor or pharmacist before taking Reactin. If you are a patient with liver and kidney problems, please seek medical advice; if necessary you will take a lower dose. The new dose will be set by your doctor. If you have difficulty urinating, you should seek the advice of your doctor. If you have epilepsy or are at risk for seizures, you should seek medical advice.</string>
+    <string name="prospect_doi">Composition:\nThe active substance is bisacodil. One gastro-resistant tablet contains 5 mg bisacodil.The other ingredients are: lactose core monohydrate, anhydrous colloidal silicon dioxide, potato starch, microcrystalline cellulose, magnesium stearate, talc, long chain partial glycerides, cellulose acetophthalate coating layer, liquid glucose, starch dextrin, montanglycol wax, castor oil, sucrose, anhydrous colloidal silicon dioxide, talc, titanium dioxide (E 171)\nContraindications:\n if you are allergic (hypersensitive) to bisacodil or any of the other ingredients of Stadalax listed in section 6;  if you suffer from ileus (temporary stopping of peristaltic bowel movements) or intestinal obstruction;  if your bowel is blocked (intestinal obstruction);  if you suffer from acute abdominal conditions such as appendicitis;  if you have acute inflammation of the intestines (small or large intestine);  if your body has lost a lot of fluids (dehydration);  if you have certain problems such as severe stomach pain, nausea, vomiting or fever. These can be signs of a serious illness. If you experience such symptoms, you should seek medical advice immediately.  in children under 2 years of age.\nDirections:\nTake special care with Stadalax In case of constipation, laxatives should only be used for a short period of time (usually no more than 5 days). For chronic constipation, you should talk to your doctor before taking this medicine. If you notice a feeling of thirst or a decrease in the amount of urine, which may be a sign of dehydration due to fluid loss and may be dangerous for the elderly or patients with kidney problems, you should stop taking Stadalax and contact your doctor. Excessive or prolonged use of laxatives may result in loss of fluids, potassium, or other electrolytes that can lead to heart problems or muscle weakness. Patients reported blood in the stool, which was usually mild and stopped on its own. Dizziness and \/ or syncope have been reported in patients treated with Stadalax. These events may be related to constipation and not necessarily to the administration of Stadalax. Laxatives should not be given to children under 10 years of age without a doctor\'s advice.\nPrecautions:\nStadalax should not be taken with milk. Please tell your doctor or pharmacist if you are taking or have recently taken any other medicines, including medicines obtained without a prescription and herbal medicines. Stomach acid neutralizing medicines (antacids) Stomach acid neutralizing medicines (antacids) should not be taken with Stadalax so that the active substance in Stadalax is not released too quickly. If you need to take a stomach medicine, take it more than half an hour after taking Stadalax. Diuretics (medicines that remove water from the body), corticosteroid hormones The active substance bisacodil may increase the loss of potassium caused by other medicines (eg diuretics, corticosteroid hormones). Heart-stimulating medicines Sensitivity to certain heart-stimulating medicines (cardiac glycosides) may be increased due to the loss of potassium.</string>
+    <string name="prospect_trei">Composition:\nOne sucking tablet contains: thyrotricin 0.5 mg, lidocaine hydrochloride 1.0 mg, chlorhexidine digluconate 1.0 mg and excipients: sorbitol, magnesium stearate (vegetable), peppermint oil.\nContraindications:\nThe drug should not be used in case of: • known hypersensitivity to any of the constituents contained in Trachisan - sucking tablets  non-haemorrhagic desquamation of the oral mucosa (erosive and desquamation changes) larger (recent) lesions (wounds) of the oral cavity and pharyngeal; • children under 4 years of age In case of fructose intolerance, treatment should not be performed until after consultation with your doctor.\nDirections:\nInflammation and infection of the oral and pharyngeal cavities (stomatitis, gingivitis and tonsillitis). Upper respiratory tract infections, sore throat, dysphagia.\nPrecautions:\nAthletes should be warned that Trachisan® - sucking tablets also contain a local anesthetic (lidocaine hydrochloride) as an active ingredient, which may cause a false positive reaction to anti-doping tests.</string>
+    <string name="prospect_patru" tools:ignore="TypographyDashes">\nComposition:\nSugar, corn starch, vitamin C, fructose, Steba rebaudian extract, lemon essential oil (Citri aetheroleum), peppermint essential oil (Menthae aetheroleum), eucalyptus essential oil (Eucalyptus aetheroleum), willow bark extract cortex) standardized in min. 15% salicin 0.5%, total extract of shock flowers (Sambuci flos), total extract of marsh clover (Menyanthes trifoliata), total extract of basil (Basilici herba), total extract of hyssop (Hyssopi herba) 0.5 %.\nContraindications:\nNot recommended for children under 3 years of age, people with diabetes and hypersensitivity to any of the product"'s ingredients.\nDirections:\nNo incompatibilities with medicines have been reported at the recommended doses. No side effects were reported.\nPrecautions:\nChildren 3–6 years: 1–2 sachets per day, divided over a day. Children 7–14 years: 2–3 sachets a day. Children over 14 years and adults: 3–4 sachets a day. The duration of the cure is 3–7 days, or according to the doctor's recommendation.</string>
+    <string name="prospect_cinci">Composition:\nsweetener (sorbitol), ascorbic acid, lactose monohydrate, citric acid, sodium citrate, sweeteners (mannitol, sodium saccharin, aspartame), talc, magnesium stearate. One tablet contains 180 mg of vitamin C (225% RDA \/ VNR \*) \* VNR = Reference nutritional value according to EU Regulation 1169\/2011 Indications.\nContraindications:\nDo not overdo it with the number of pills taken.\nDirections:\n- optimal functioning of the immune system - reduction of fatigue and exhaustion - improvement of iron absorption - normal functioning of metabolism - protection of the body against oxidative stress\nPrecautions:\nKeep out of the reach and sight of children. Store below 25 ° C in the original package. Do not exceed recommended dose for daily consumption. The product is a dietary supplement and should not replace a varied diet and a healthy lifestyle.</string>
+    <string name="prospect_sase">Composition:\nThe active substance is acetylsalicylic acid. Each tablet contains 500 mg acetylsalicylic acid. Anhydrous colloidal silicon dioxide, anhydrous sodium carbonate Film: carnauba wax, hypromellose, zinc stearate.\nContraindications:\nLike all medicines, this medicine can cause side effects, although not everybody gets them. Frequencies: unknown frequency - frequency cannot be estimated from the available data.\nDirections:\nDo not take ASPIRIN with alcohol. - if you are being treated with methotrexate in doses greater than 20 mg per week. In this case, the use of high-dose acetylsalicylic acid (anti-inflammatory doses) or the use of acetylsalicylic acid for the treatment of pain or fever should be avoided. - if you are being treated with oral anticoagulants and if you have had a gastroduodenal ulcer. In this case, the use of high-dose acetylsalicylic acid (anti-inflammatory doses) or the use of acetylsalicylic acid for the treatment of pain or fever should be avoided.\nPrecautions:\nTalk to your doctor or pharmacist before taking acetylsalicylic acid with any of the following medicines: - oral anticoagulants, when acetylsalicylic acid is used to treat pain and fever, if you have not had a gastroduodenal ulcer - nonsteroidal anti-inflammatory drugs , when acetylsalicylic acid is used in high doses (anti-inflammatory) or for the treatment of pain and fever - heparin used in curative doses or in elderly patients (65 years), when acetylsalicylic acid is used in high doses (anti-inflammatory), in especially for the treatment of rheumatic diseases or for the treatment of pain and fever - thrombolytics - clopidogrel - ticlopidine - uricosuric drugs used in the treatment of gout (eg benzbromarone, probenecid) - glucocorticoids (except hydrocortisone replacement therapy), when using acetyl acid dose (anti-inflammatory) pemetrexed, in patients with mild to moderate renal impairment anagrelide - water retention drugs (diuretics) - angiotensin converting enzyme inhibitors, angiotensin II receptor antagonists - methotrexate used in doses of 20 mg or less per week - topical gastrointestinal medicines, antacids and charcoal - deferasirox - selective serotonin reuptake inhibitors (eg citalopram, escitalopram, fluoxetine, fluvoxamine, paroxetine, sertraline).</string>
+    <string name="prospect_sapte">Composition:\nThe active substances are: paracetamol 500 mg, chlorophenamine maleate 3 mg, pseudoephedrine hydrochloride 30 mg. The other ingredients are: pregelatinised starch, talc, povidone, stearic acid, magnesium stearate.\nContraindications:\nDo not use Parasinus: - if you are allergic (hypersensitive) to paracetamol, pseudoephedrine, chlorophenamine, phenacetin, other antihistamines, other anti-inflammatory drugs (increased risk of allergic reactions) or any of the other ingredients of Parasinus; - It should not be used in children under 12 years of age unless instructed to do so by a doctor.\nDirections:\nParasinus is indicated in: prophylaxis and treatment of inflammation of the nasal mucosa (rhinitis) of allergic and vasomotor nature and for the symptomatic treatment of the common cold and flu (for the relief of sneezing, rhinorrhea, nasal and sinus congestion, fever, headache, teary eyes, and pain in the sinuses) and for the symptomatic treatment of mild to moderate pain with various localizations: headache, sore throat, joint or back pain, toothache, pain during the menstrual cycle, neuralgia, migraines.\nPrecautions:\nTalk to your doctor or pharmacist before using Parasinus.</string>
+</resources>
